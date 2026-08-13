@@ -1,0 +1,360 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Machine Learning Engineering Open Book",
+          "description": "by Stas Bekman",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T04:20:31Z",
+            "owner": "stas00",
+            "repo": "ml-engineering",
+            "stars": 18604
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Harvard's undergraduate course in Machine Learning",
+          "description": "by William J. Deuschle",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2025-06-29T03:57:41Z",
+            "owner": "harvard-ml-courses",
+            "repo": "cs181-textbook",
+            "stars": 370
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Undergraduate Fundamentals of Machine Learning",
+          "description": "by William J. Deuschle",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2025-06-29T03:57:41Z",
+            "owner": "harvard-ml-courses",
+            "repo": "cs181-textbook",
+            "stars": 370
+          }
+        }
+      ],
+      "title": "Machine Learning"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mathematical Foundations of Reinforcement Learning",
+          "description": "by Shiyu Zhao",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MATLAB",
+            "last_commit": "2026-08-10T06:39:05Z",
+            "owner": "MathFoundationRL",
+            "repo": "Book-Mathematical-Foundation-of-Reinforcement-Learning",
+            "stars": 17450
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep Reinforcement Learning: Zero to Hero!",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-05-26T16:54:31Z",
+            "owner": "alessiodm",
+            "repo": "drl-zh",
+            "stars": 2292
+          }
+        }
+      ],
+      "title": "Reinforcement learning"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Monte-Carlo Graph Search from First Principles",
+          "description": "by David J Wu",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T05:39:37Z",
+            "owner": "lightvector",
+            "repo": "KataGo",
+            "stars": 4957
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clever Algorithms: Nature-Inspired Programming Recipes",
+          "description": "by Jason Brownlee",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2024-12-20T03:55:29Z",
+            "owner": "Jason2Brownlee",
+            "repo": "CleverAlgorithms",
+            "stars": 2116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Little Book of algorithms",
+          "description": "by Duc-Tam Nguyen",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2025-10-25T17:49:43Z",
+            "owner": "little-book-of",
+            "repo": "algorithms",
+            "stars": 559
+          }
+        }
+      ],
+      "title": "Algorithms"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Competitions and Interview Preparation Websites"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Image Processing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "3D Game Shaders For Beginners",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2023-06-25T21:58:57Z",
+            "owner": "lettier",
+            "repo": "3d-game-shaders-for-beginners",
+            "stars": 19814
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shaders For People Who Don't Know How To Shader",
+          "description": "by Manuela Malasaña",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "ShaderLab",
+            "last_commit": "2024-03-01T18:06:13Z",
+            "owner": "Xibanya",
+            "repo": "ShaderTutorials",
+            "stars": 1295
+          }
+        }
+      ],
+      "title": "Shaders"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "A comprehensive guide for Linux Network (Socket) programming",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-01-19T16:43:33Z",
+            "owner": "nguyenchiemminhvu",
+            "repo": "LinuxNetworkProgramming",
+            "stars": 546
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Implementing TCP In Rust",
+          "description": "by Ghvst Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-05T08:16:23Z",
+            "owner": "Ghvstcode",
+            "repo": "Rust-Tcp",
+            "stars": 463
+          }
+        }
+      ],
+      "title": "Computer Networks and Network Programming"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Lisp dialects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "30 Days Of Python",
+          "description": "by Asabeneh",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T20:53:22Z",
+            "owner": "Asabeneh",
+            "repo": "30-Days-Of-Python",
+            "stars": 70823
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scientific Visualization: Python + Matplotlib",
+          "description": "by Nicolas Rougier",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-04T13:29:20Z",
+            "owner": "rougier",
+            "repo": "scientific-visualization-book",
+            "stars": 11421
+          }
+        }
+      ],
+      "title": "Python"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mathematics for Robotics",
+          "description": "by Jessy Grizzle",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-03-21T15:33:13Z",
+            "owner": "michiganrobotics",
+            "repo": "rob501",
+            "stars": 2801
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Robotics & ROS 2 Essentials",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-11-25T22:56:19Z",
+            "owner": "henki-robotics",
+            "repo": "robotics_essentials_ros2",
+            "stars": 2515
+          }
+        }
+      ],
+      "title": "Robotics"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Personal Websites and Blogs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Build Your Own X",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Markdown",
+            "last_commit": "2026-07-14T19:25:58Z",
+            "owner": "codecrafters-io",
+            "repo": "build-your-own-x",
+            "stars": 539192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Project Based Learning",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T07:04:22Z",
+            "owner": "practical-tutorials",
+            "repo": "project-based-learning",
+            "stars": 278886
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Math Books",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-22T16:17:29Z",
+            "owner": "valeman",
+            "repo": "Awesome_Math_Books",
+            "stars": 6833
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Max Slater's Bookmarks",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-24T17:36:44Z",
+            "owner": "TheNumbat",
+            "repo": "Lists",
+            "stars": 353
+          }
+        }
+      ],
+      "title": "Other lists"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:27:51.312Z",
+    "original_repository": "bobeff/programming-math-science",
+    "original_repository_sha": "ce712f9f56644a1013eacabf4701ea3ac58e6e8e",
+    "enhanced_repository": "enhansome/enhansome-programming-math-science",
+    "enhanced_repository_description": null,
+    "title": "Awesome Programming, Math, Science with stars"
+  }
+}
