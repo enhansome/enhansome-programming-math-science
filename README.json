@@ -14,7 +14,7 @@
             "last_commit": "2026-08-14T19:59:44Z",
             "owner": "stas00",
             "repo": "ml-engineering",
-            "stars": 18625
+            "stars": 18630
           }
         },
         {
@@ -62,7 +62,7 @@
             "last_commit": "2026-08-10T06:39:05Z",
             "owner": "MathFoundationRL",
             "repo": "Book-Mathematical-Foundation-of-Reinforcement-Learning",
-            "stars": 17468
+            "stars": 17475
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-08-14T04:17:12Z",
             "owner": "lightvector",
             "repo": "KataGo",
-            "stars": 4971
+            "stars": 4975
           }
         },
         {
@@ -168,7 +168,7 @@
             "last_commit": "2024-03-01T18:06:13Z",
             "owner": "Xibanya",
             "repo": "ShaderTutorials",
-            "stars": 1296
+            "stars": 1297
           }
         }
       ],
@@ -227,7 +227,7 @@
             "last_commit": "2026-08-12T20:53:22Z",
             "owner": "Asabeneh",
             "repo": "30-Days-Of-Python",
-            "stars": 70993
+            "stars": 71058
           }
         },
         {
@@ -241,7 +241,7 @@
             "last_commit": "2026-01-04T13:29:20Z",
             "owner": "rougier",
             "repo": "scientific-visualization-book",
-            "stars": 11420
+            "stars": 11423
           }
         }
       ],
@@ -261,7 +261,7 @@
             "last_commit": "2022-03-21T15:33:13Z",
             "owner": "michiganrobotics",
             "repo": "rob501",
-            "stars": 2803
+            "stars": 2804
           }
         },
         {
@@ -300,7 +300,7 @@
             "last_commit": "2026-07-14T19:25:58Z",
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 539921
+            "stars": 540183
           }
         },
         {
@@ -314,7 +314,7 @@
             "last_commit": "2026-08-10T07:04:22Z",
             "owner": "practical-tutorials",
             "repo": "project-based-learning",
-            "stars": 279295
+            "stars": 279428
           }
         },
         {
@@ -328,7 +328,7 @@
             "last_commit": "2026-08-14T09:37:03Z",
             "owner": "valeman",
             "repo": "Awesome_Math_Books",
-            "stars": 6862
+            "stars": 6956
           }
         },
         {
@@ -350,7 +350,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T15:57:13.638Z",
+    "last_updated": "2026-08-16T15:57:47.613Z",
     "original_repository": "bobeff/programming-math-science",
     "original_repository_sha": "ce712f9f56644a1013eacabf4701ea3ac58e6e8e",
     "enhanced_repository": "enhansome/enhansome-programming-math-science",
