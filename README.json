@@ -14,7 +14,7 @@
             "last_commit": "2026-08-14T19:59:44Z",
             "owner": "stas00",
             "repo": "ml-engineering",
-            "stars": 18646
+            "stars": 18652
           }
         },
         {
@@ -62,7 +62,7 @@
             "last_commit": "2026-08-10T06:39:05Z",
             "owner": "MathFoundationRL",
             "repo": "Book-Mathematical-Foundation-of-Reinforcement-Learning",
-            "stars": 17488
+            "stars": 17499
           }
         },
         {
@@ -93,10 +93,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T04:17:12Z",
+            "last_commit": "2026-08-18T14:06:19Z",
             "owner": "lightvector",
             "repo": "KataGo",
-            "stars": 4980
+            "stars": 4988
           }
         },
         {
@@ -154,7 +154,7 @@
             "last_commit": "2023-06-25T21:58:57Z",
             "owner": "lettier",
             "repo": "3d-game-shaders-for-beginners",
-            "stars": 19830
+            "stars": 19835
           }
         },
         {
@@ -188,7 +188,7 @@
             "last_commit": "2025-01-19T16:43:33Z",
             "owner": "nguyenchiemminhvu",
             "repo": "LinuxNetworkProgramming",
-            "stars": 546
+            "stars": 548
           }
         },
         {
@@ -227,7 +227,7 @@
             "last_commit": "2026-08-12T20:53:22Z",
             "owner": "Asabeneh",
             "repo": "30-Days-Of-Python",
-            "stars": 71188
+            "stars": 71286
           }
         },
         {
@@ -241,7 +241,7 @@
             "last_commit": "2026-01-04T13:29:20Z",
             "owner": "rougier",
             "repo": "scientific-visualization-book",
-            "stars": 11423
+            "stars": 11426
           }
         }
       ],
@@ -261,7 +261,7 @@
             "last_commit": "2022-03-21T15:33:13Z",
             "owner": "michiganrobotics",
             "repo": "rob501",
-            "stars": 2806
+            "stars": 2840
           }
         },
         {
@@ -275,7 +275,7 @@
             "last_commit": "2025-11-25T22:56:19Z",
             "owner": "henki-robotics",
             "repo": "robotics_essentials_ros2",
-            "stars": 2521
+            "stars": 2522
           }
         }
       ],
@@ -300,7 +300,7 @@
             "last_commit": "2026-07-14T19:25:58Z",
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 540422
+            "stars": 540772
           }
         },
         {
@@ -314,7 +314,7 @@
             "last_commit": "2026-08-17T06:46:47Z",
             "owner": "practical-tutorials",
             "repo": "project-based-learning",
-            "stars": 279569
+            "stars": 279745
           }
         },
         {
@@ -328,7 +328,7 @@
             "last_commit": "2026-08-14T09:37:03Z",
             "owner": "valeman",
             "repo": "Awesome_Math_Books",
-            "stars": 6977
+            "stars": 6984
           }
         },
         {
@@ -350,7 +350,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T16:00:31.015Z",
+    "last_updated": "2026-08-18T16:02:44.000Z",
     "original_repository": "bobeff/programming-math-science",
     "original_repository_sha": "4e7cf5e177598cb4072e709963623fed8f863d08",
     "enhanced_repository": "enhansome/enhansome-programming-math-science",
