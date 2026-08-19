@@ -1,89 +1,102 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Machine Learning Engineering Open Book",
-          "description": "by Stas Bekman",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-14T19:59:44Z",
-            "owner": "stas00",
-            "repo": "ml-engineering",
-            "stars": 18652
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Harvard's undergraduate course in Machine Learning",
-          "description": "by William J. Deuschle",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TeX",
-            "last_commit": "2025-06-29T03:57:41Z",
-            "owner": "harvard-ml-courses",
-            "repo": "cs181-textbook",
-            "stars": 370
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Undergraduate Fundamentals of Machine Learning",
-          "description": "by William J. Deuschle",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TeX",
-            "last_commit": "2025-06-29T03:57:41Z",
-            "owner": "harvard-ml-courses",
-            "repo": "cs181-textbook",
-            "stars": 370
-          }
-        }
-      ],
-      "title": "Machine Learning"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Mathematical Foundations of Reinforcement Learning",
-          "description": "by Shiyu Zhao",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "MATLAB",
-            "last_commit": "2026-08-10T06:39:05Z",
-            "owner": "MathFoundationRL",
-            "repo": "Book-Mathematical-Foundation-of-Reinforcement-Learning",
-            "stars": 17499
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Deep Reinforcement Learning: Zero to Hero!",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Machine Learning Engineering Open Book",
+              "description": "by Stas Bekman",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 292374787,
+                "language": "Python",
+                "last_commit": "2026-08-19T04:25:17Z",
+                "owner": "stas00",
+                "repo": "ml-engineering",
+                "stars": 18655
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Harvard's undergraduate course in Machine Learning",
+              "description": "by William J. Deuschle",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 160216952,
+                "language": "TeX",
+                "last_commit": "2025-06-29T03:57:41Z",
+                "owner": "harvard-ml-courses",
+                "repo": "cs181-textbook",
+                "stars": 369
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Undergraduate Fundamentals of Machine Learning",
+              "description": "by William J. Deuschle",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 160216952,
+                "language": "TeX",
+                "last_commit": "2025-06-29T03:57:41Z",
+                "owner": "harvard-ml-courses",
+                "repo": "cs181-textbook",
+                "stars": 369
+              }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Mathematical Foundations of Reinforcement Learning",
+                  "description": "by Shiyu Zhao",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 522133400,
+                    "language": "MATLAB",
+                    "last_commit": "2026-08-10T06:39:05Z",
+                    "owner": "MathFoundationRL",
+                    "repo": "Book-Mathematical-Foundation-of-Reinforcement-Learning",
+                    "stars": 17504
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Deep Reinforcement Learning: Zero to Hero!",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 741616456,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2026-05-26T16:54:31Z",
+                    "owner": "alessiodm",
+                    "repo": "drl-zh",
+                    "stars": 2292
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Reinforcement learning"
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2026-05-26T16:54:31Z",
-            "owner": "alessiodm",
-            "repo": "drl-zh",
-            "stars": 2292
-          }
+          "node_type": "group",
+          "title": "Machine Learning"
         }
       ],
-      "title": "Reinforcement learning"
+      "title": "AI"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -92,11 +105,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 172640711,
             "language": "C++",
             "last_commit": "2026-08-18T14:06:19Z",
             "owner": "lightvector",
             "repo": "KataGo",
-            "stars": 4988
+            "stars": 4994
           }
         },
         {
@@ -106,6 +120,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 455621,
             "language": "TeX",
             "last_commit": "2024-12-20T03:55:29Z",
             "owner": "Jason2Brownlee",
@@ -120,6 +135,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1053314634,
             "language": "TeX",
             "last_commit": "2025-10-25T17:49:43Z",
             "owner": "little-book-of",
@@ -131,51 +147,50 @@
       "title": "Algorithms"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Competitions and Interview Preparation Websites"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Image Processing"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "3D Game Shaders For Beginners",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "3D Game Shaders For Beginners",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 186309296,
+                "language": "C++",
+                "last_commit": "2023-06-25T21:58:57Z",
+                "owner": "lettier",
+                "repo": "3d-game-shaders-for-beginners",
+                "stars": 19839
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shaders For People Who Don't Know How To Shader",
+              "description": "by Manuela Malasaña",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 202934467,
+                "language": "ShaderLab",
+                "last_commit": "2024-03-01T18:06:13Z",
+                "owner": "Xibanya",
+                "repo": "ShaderTutorials",
+                "stars": 1297
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2023-06-25T21:58:57Z",
-            "owner": "lettier",
-            "repo": "3d-game-shaders-for-beginners",
-            "stars": 19835
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Shaders For People Who Don't Know How To Shader",
-          "description": "by Manuela Malasaña",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "ShaderLab",
-            "last_commit": "2024-03-01T18:06:13Z",
-            "owner": "Xibanya",
-            "repo": "ShaderTutorials",
-            "stars": 1297
-          }
+          "node_type": "group",
+          "title": "Shaders"
         }
       ],
-      "title": "Shaders"
+      "title": "Computer Graphics"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -184,11 +199,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 859389597,
             "language": "C",
             "last_commit": "2025-01-19T16:43:33Z",
             "owner": "nguyenchiemminhvu",
             "repo": "LinuxNetworkProgramming",
-            "stars": 548
+            "stars": 549
           }
         },
         {
@@ -198,6 +214,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 712468327,
             "language": null,
             "last_commit": "2024-06-05T08:16:23Z",
             "owner": "Ghvstcode",
@@ -209,46 +226,50 @@
       "title": "Computer Networks and Network Programming"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Lisp dialects"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "30 Days Of Python",
-          "description": "by Asabeneh",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-12T20:53:22Z",
-            "owner": "Asabeneh",
-            "repo": "30-Days-Of-Python",
-            "stars": 71286
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Scientific Visualization: Python + Matplotlib",
-          "description": "by Nicolas Rougier",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-01-04T13:29:20Z",
-            "owner": "rougier",
-            "repo": "scientific-visualization-book",
-            "stars": 11426
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "30 Days Of Python",
+              "description": "by Asabeneh",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 222751131,
+                "language": "Python",
+                "last_commit": "2026-08-12T20:53:22Z",
+                "owner": "Asabeneh",
+                "repo": "30-Days-Of-Python",
+                "stars": 71370
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Scientific Visualization: Python + Matplotlib",
+              "description": "by Nicolas Rougier",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 202693400,
+                "language": "Python",
+                "last_commit": "2026-01-04T13:29:20Z",
+                "owner": "rougier",
+                "repo": "scientific-visualization-book",
+                "stars": 11427
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Python"
         }
       ],
-      "title": "Python"
+      "title": "Programming languages"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -257,11 +278,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 452298460,
             "language": null,
             "last_commit": "2022-03-21T15:33:13Z",
             "owner": "michiganrobotics",
             "repo": "rob501",
-            "stars": 2840
+            "stars": 2848
           }
         },
         {
@@ -271,23 +293,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 880776535,
             "language": "C++",
             "last_commit": "2025-11-25T22:56:19Z",
             "owner": "henki-robotics",
             "repo": "robotics_essentials_ros2",
-            "stars": 2522
+            "stars": 2523
           }
         }
       ],
       "title": "Robotics"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Personal Websites and Blogs"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -296,11 +314,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 132750724,
             "language": "Markdown",
             "last_commit": "2026-07-14T19:25:58Z",
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 540772
+            "stars": 541130
           }
         },
         {
@@ -310,11 +329,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88011908,
             "language": "Python",
             "last_commit": "2026-08-17T06:46:47Z",
             "owner": "practical-tutorials",
             "repo": "project-based-learning",
-            "stars": 279745
+            "stars": 279881
           }
         },
         {
@@ -324,11 +344,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 850651449,
             "language": null,
             "last_commit": "2026-08-14T09:37:03Z",
             "owner": "valeman",
             "repo": "Awesome_Math_Books",
-            "stars": 6984
+            "stars": 6992
           }
         },
         {
@@ -338,6 +359,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 100203417,
             "language": null,
             "last_commit": "2026-01-24T17:36:44Z",
             "owner": "TheNumbat",
@@ -350,8 +372,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T16:02:44.000Z",
+    "last_updated": "2026-08-19T12:49:33.123Z",
     "original_repository": "bobeff/programming-math-science",
+    "original_repository_id": 400507157,
     "original_repository_sha": "4e7cf5e177598cb4072e709963623fed8f863d08",
     "enhanced_repository": "enhansome/enhansome-programming-math-science",
     "enhanced_repository_description": null,
