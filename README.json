@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 292374787,
                 "language": "Python",
-                "last_commit": "2026-08-19T04:25:17Z",
+                "last_commit": "2026-08-19T15:49:39Z",
                 "owner": "stas00",
                 "repo": "ml-engineering",
                 "stars": 18655
@@ -110,7 +110,7 @@
             "last_commit": "2026-08-18T14:06:19Z",
             "owner": "lightvector",
             "repo": "KataGo",
-            "stars": 4994
+            "stars": 4995
           }
         },
         {
@@ -163,7 +163,7 @@
                 "last_commit": "2023-06-25T21:58:57Z",
                 "owner": "lettier",
                 "repo": "3d-game-shaders-for-beginners",
-                "stars": 19839
+                "stars": 19841
               }
             },
             {
@@ -242,7 +242,7 @@
                 "last_commit": "2026-08-12T20:53:22Z",
                 "owner": "Asabeneh",
                 "repo": "30-Days-Of-Python",
-                "stars": 71370
+                "stars": 71381
               }
             },
             {
@@ -283,7 +283,7 @@
             "last_commit": "2022-03-21T15:33:13Z",
             "owner": "michiganrobotics",
             "repo": "rob501",
-            "stars": 2848
+            "stars": 2850
           }
         },
         {
@@ -319,7 +319,7 @@
             "last_commit": "2026-07-14T19:25:58Z",
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 541130
+            "stars": 541188
           }
         },
         {
@@ -334,7 +334,7 @@
             "last_commit": "2026-08-17T06:46:47Z",
             "owner": "practical-tutorials",
             "repo": "project-based-learning",
-            "stars": 279881
+            "stars": 279913
           }
         },
         {
@@ -372,7 +372,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:49:33.123Z",
+    "last_updated": "2026-08-19T16:03:33.546Z",
     "original_repository": "bobeff/programming-math-science",
     "original_repository_id": 400507157,
     "original_repository_sha": "4e7cf5e177598cb4072e709963623fed8f863d08",

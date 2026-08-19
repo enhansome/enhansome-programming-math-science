@@ -188,7 +188,7 @@ This is a list of links to different freely available learning resources about c
 
 * [Agentic Design Patterns](https://docs.google.com/document/u/0/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/mobilebasic) by *Antonio Gulli*
 
-* [Maths, CS & AI Compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) ⭐ 7,337 | 🐛 16 | 🌐 TypeScript | 📅 2026-07-18 by *Henry Ndubuaku*
+* [Maths, CS & AI Compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) ⭐ 7,337 | 🐛 15 | 🌐 TypeScript | 📅 2026-07-18 by *Henry Ndubuaku*
 
 * [Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp](https://norvig.github.io/paip-lisp) by *Peter Norvig*
 
@@ -452,7 +452,7 @@ This is a list of links to different freely available learning resources about c
 
 ## Algorithms
 
-* [Monte-Carlo Graph Search from First Principles](https://github.com/lightvector/KataGo/blob/master/docs/GraphSearch.md) ⭐ 4,994 | 🐛 492 | 🌐 C++ | 📅 2026-08-18 by *David J Wu*
+* [Monte-Carlo Graph Search from First Principles](https://github.com/lightvector/KataGo/blob/master/docs/GraphSearch.md) ⭐ 4,995 | 🐛 492 | 🌐 C++ | 📅 2026-08-18 by *David J Wu*
 
 * [Clever Algorithms: Nature-Inspired Programming Recipes](https://github.com/clever-algorithms/CleverAlgorithms) ⭐ 2,116 | 🐛 32 | 🌐 TeX | 📅 2024-12-20 by *Jason Brownlee*
 
@@ -765,7 +765,7 @@ This is a list of links to different freely available learning resources about c
 
 ## Compilers and Interpreters
 
-* [A Compiler Writing Journey](https://github.com/DoctorWkt/acwj) ⭐ 13,379 | 🐛 25 | 🌐 C | 📅 2026-06-06 by *Warren*
+* [A Compiler Writing Journey](https://github.com/DoctorWkt/acwj) ⭐ 13,380 | 🐛 25 | 🌐 C | 📅 2026-06-06 by *Warren*
 
 * [A practical introduction to parsing](https://jhwlr.io/intro-to-parsing) by *Jan Procházka*
 
@@ -1060,7 +1060,7 @@ This is a list of links to different freely available learning resources about c
 
 ### Shaders
 
-* [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners) ⭐ 19,839 | 🐛 18 | 🌐 C++ | 📅 2023-06-25
+* [3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners) ⭐ 19,841 | 🐛 18 | 🌐 C++ | 📅 2023-06-25
 
 * [Shaders For People Who Don't Know How To Shader](https://github.com/Xibanya/ShaderTutorials) ⭐ 1,297 | 🐛 3 | 🌐 ShaderLab | 📅 2024-03-01 by *Manuela Malasaña*
 
@@ -2678,7 +2678,7 @@ This is a list of links to different freely available learning resources about c
 
 ### Bash
 
-* [Introduction to Bash Scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) ⭐ 6,305 | 🐛 10 | 🌐 HTML | 📅 2026-02-11 by *Bobby Iliev*
+* [Introduction to Bash Scripting](https://github.com/bobbyiliev/introduction-to-bash-scripting) ⭐ 6,306 | 🐛 10 | 🌐 HTML | 📅 2026-02-11 by *Bobby Iliev*
 
 ### Basic
 
@@ -3006,7 +3006,7 @@ This is a list of links to different freely available learning resources about c
 
 ### Python
 
-* [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python) ⭐ 71,370 | 🐛 194 | 🌐 Python | 📅 2026-08-12 by *Asabeneh*
+* [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python) ⭐ 71,381 | 🐛 194 | 🌐 Python | 📅 2026-08-12 by *Asabeneh*
 
 * [Scientific Visualization: Python + Matplotlib](https://github.com/rougier/scientific-visualization-book) ⭐ 11,427 | 🐛 18 | 🌐 Python | 📅 2026-01-04 by *Nicolas Rougier*
 
@@ -3306,7 +3306,7 @@ This is a list of links to different freely available learning resources about c
 
 ## Robotics
 
-* [Mathematics for Robotics](https://github.com/michiganrobotics/rob501) ⭐ 2,848 | 🐛 1 | 📅 2022-03-21 by *Jessy Grizzle*
+* [Mathematics for Robotics](https://github.com/michiganrobotics/rob501) ⭐ 2,850 | 🐛 1 | 📅 2022-03-21 by *Jessy Grizzle*
 
 * [Robotics & ROS 2 Essentials](https://github.com/henki-robotics/robotics_essentials_ros2) ⭐ 2,523 | 🐛 1 | 🌐 C++ | 📅 2025-11-25
 
@@ -3383,7 +3383,7 @@ This is a list of links to different freely available learning resources about c
 
 * [Interactive Vim Tutorial](https://www.openvim.com) by *Henrik Huttunen*
 
-* [Learn Vim (the Smart Way)](https://github.com/iggredible/Learn-Vim) ⭐ 15,187 | 🐛 19 | 🌐 Dockerfile | 📅 2026-04-23 by *Igor Irianto*
+* [Learn Vim (the Smart Way)](https://github.com/iggredible/Learn-Vim) ⭐ 15,188 | 🐛 19 | 🌐 Dockerfile | 📅 2026-04-23 by *Igor Irianto*
 
 * [The Vi/Ex Editor](https://www.ele.uri.edu/faculty/vetter/Other-stuff/vi/009-index.html) by *Walter Alan Zintz*
 
@@ -4044,9 +4044,9 @@ This is a list of links to different freely available learning resources about c
 
 ## Other lists
 
-* [Build Your Own X](https://github.com/danistefanovic/build-your-own-x/blob/master/README.md) ⭐ 541,130 | 🐛 634 | 🌐 Markdown | 📅 2026-07-14
+* [Build Your Own X](https://github.com/danistefanovic/build-your-own-x/blob/master/README.md) ⭐ 541,188 | 🐛 634 | 🌐 Markdown | 📅 2026-07-14
 
-* [Project Based Learning](https://github.com/practical-tutorials/project-based-learning/blob/master/README.md) ⭐ 279,881 | 🐛 270 | 🌐 Python | 📅 2026-08-17
+* [Project Based Learning](https://github.com/practical-tutorials/project-based-learning/blob/master/README.md) ⭐ 279,913 | 🐛 270 | 🌐 Python | 📅 2026-08-17
 
 * [Awesome Math Books](https://github.com/valeman/Awesome_Math_Books) ⭐ 6,992 | 🐛 7 | 📅 2026-08-14
 
