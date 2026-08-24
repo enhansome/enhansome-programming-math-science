@@ -4,6 +4,21 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "Maths, CS & AI Compendium",
+          "description": "by Henry Ndubuaku",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1149023093,
+            "language": "TypeScript",
+            "last_commit": "2026-07-18T22:19:35Z",
+            "owner": "HenryNdubuaku",
+            "repo": "maths-cs-ai-compendium",
+            "stars": 7361
+          }
+        },
+        {
           "children": [
             {
               "node_type": "item",
@@ -14,10 +29,10 @@
                 "archived": false,
                 "id": 292374787,
                 "language": "Python",
-                "last_commit": "2026-08-23T15:49:23Z",
+                "last_commit": "2026-08-23T16:51:42Z",
                 "owner": "stas00",
                 "repo": "ml-engineering",
-                "stars": 18691
+                "stars": 18696
               }
             },
             {
@@ -53,6 +68,35 @@
             {
               "children": [
                 {
+                  "node_type": "group",
+                  "title": "Matrix Calculus (for Machine Learning and Beyond)",
+                  "description": "by Paige Bright, Alan Edelman, and Steven G. Johnson",
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "GitHub repository",
+                      "description": null,
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 444473308,
+                        "language": "Jupyter Notebook",
+                        "last_commit": "2026-01-31T16:14:45Z",
+                        "owner": "mitmath",
+                        "repo": "matrixcalc",
+                        "stars": 605
+                      }
+                    }
+                  ]
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Mathematics for Machine Learning"
+            },
+            {
+              "children": [
+                {
                   "node_type": "item",
                   "title": "Mathematical Foundations of Reinforcement Learning",
                   "description": "by Shiyu Zhao",
@@ -64,7 +108,7 @@
                     "last_commit": "2026-08-10T06:39:05Z",
                     "owner": "MathFoundationRL",
                     "repo": "Book-Mathematical-Foundation-of-Reinforcement-Learning",
-                    "stars": 17539
+                    "stars": 17551
                   }
                 },
                 {
@@ -91,6 +135,28 @@
           "description": null,
           "node_type": "group",
           "title": "Machine Learning"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Disciplined AI Software Development",
+              "description": "by Jay Baleine",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1050485604,
+                "language": "Python",
+                "last_commit": "2026-04-02T14:58:53Z",
+                "owner": "Varietyz",
+                "repo": "Disciplined-AI-Software-Development",
+                "stars": 405
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Vibe Coding and Spec-Driven Development"
         }
       ],
       "title": "AI"
@@ -107,10 +173,10 @@
             "archived": false,
             "id": 172640711,
             "language": "C++",
-            "last_commit": "2026-08-22T15:59:33Z",
+            "last_commit": "2026-08-24T04:27:53Z",
             "owner": "lightvector",
             "repo": "KataGo",
-            "stars": 5014
+            "stars": 5019
           }
         },
         {
@@ -153,6 +219,121 @@
           "children": [
             {
               "node_type": "item",
+              "title": "GameShell: a \"game\" to teach the Unix shell",
+              "description": "by Pierre Hyvernat",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 94422621,
+                "language": "Shell",
+                "last_commit": "2026-05-05T19:00:45Z",
+                "owner": "phyver",
+                "repo": "GameShell",
+                "stars": 3161
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Linux command line"
+        }
+      ],
+      "title": "Command Line and Tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "A Compiler Writing Journey",
+          "description": "by Warren",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 215973962,
+            "language": "C",
+            "last_commit": "2026-06-06T21:17:51Z",
+            "owner": "DoctorWkt",
+            "repo": "acwj",
+            "stars": 13385
+          }
+        }
+      ],
+      "title": "Compilers and Interpreters"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DirectX-Graphics-Samples",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36831874,
+                "language": "C++",
+                "last_commit": "2026-08-14T18:48:25Z",
+                "owner": "microsoft",
+                "repo": "DirectX-Graphics-Samples",
+                "stars": 6816
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "DirectX 12"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Drawing Graphics on Apple Vision with the Metal Rendering API",
+              "description": "by Georgi Nikolov",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 862878435,
+                "language": null,
+                "last_commit": "2025-07-09T07:04:19Z",
+                "owner": "gnikoloff",
+                "repo": "drawing-graphics-on-apple-vision-with-metal-rendering-api",
+                "stars": 304
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Metal"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "A Guide to Modern OpenGL Functions",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 69830476,
+                "language": null,
+                "last_commit": "2021-11-08T08:01:54Z",
+                "owner": "fendevel",
+                "repo": "Guide-to-Modern-OpenGL-Functions",
+                "stars": 1457
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "OpenGL"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "3D Game Shaders For Beginners",
               "description": null,
               "children": [],
@@ -163,7 +344,7 @@
                 "last_commit": "2023-06-25T21:58:57Z",
                 "owner": "lettier",
                 "repo": "3d-game-shaders-for-beginners",
-                "stars": 19851
+                "stars": 19853
               }
             },
             {
@@ -219,7 +400,7 @@
             "last_commit": "2024-06-05T08:16:23Z",
             "owner": "Ghvstcode",
             "repo": "Rust-Tcp",
-            "stars": 463
+            "stars": 462
           }
         }
       ],
@@ -228,6 +409,236 @@
     {
       "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "Retro Rampage",
+          "description": "A tutorial series in which you will learn how to build a Wolfenstein-like game from scratch, in Swift by Nick Lockwood",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 185656427,
+            "language": "Swift",
+            "last_commit": "2021-04-17T06:50:05Z",
+            "owner": "nicklockwood",
+            "repo": "RetroRampage",
+            "stars": 1535
+          }
+        }
+      ],
+      "title": "Game Programming"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Performance Analysis and Tunning on Modern CPUs",
+          "description": "by Denis Bakhvalov",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 435609557,
+            "language": "TeX",
+            "last_commit": "2025-06-09T19:19:54Z",
+            "owner": "dendibakh",
+            "repo": "perf-book",
+            "stars": 3629
+          }
+        }
+      ],
+      "title": "Low Level Stuff"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "The Little Book of Linear Algebra",
+                  "description": "by Duc-Tam Nguyen",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1048796077,
+                    "language": "Jupyter Notebook",
+                    "last_commit": "2026-03-16T14:47:03Z",
+                    "owner": "little-book-of",
+                    "repo": "linear-algebra",
+                    "stars": 1995
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Linear Algebra"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Algebra"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Statistics Handbook",
+              "description": "by Carlo Occhiena",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 586325708,
+                "language": "TeX",
+                "last_commit": "2025-12-22T19:18:47Z",
+                "owner": "carloocchiena",
+                "repo": "the_statistics_handbook",
+                "stars": 271
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Probability and Statistics"
+        }
+      ],
+      "title": "Math"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Linux Basics for Hackers",
+          "description": "by Abdulrahman Hegazy",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1234188479,
+            "language": null,
+            "last_commit": "2026-06-04T19:11:52Z",
+            "owner": "ahegazy0",
+            "repo": "linux-basics-for-hackers-notes",
+            "stars": 1299
+          }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Operating System development tutorials in Rust on the Raspberry Pi",
+              "description": "by Andre Richter",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 127553476,
+                "language": "Rust",
+                "last_commit": "2024-02-10T03:24:45Z",
+                "owner": "rust-embedded",
+                "repo": "rust-raspberrypi-OS-tutorials",
+                "stars": 14726
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Operating Systems Development"
+        }
+      ],
+      "title": "Operating Systems"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "FFmpeg School of Assembly Language",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 909469481,
+                "language": null,
+                "last_commit": "2026-02-22T16:52:19Z",
+                "owner": "FFmpeg",
+                "repo": "asm-lessons",
+                "stars": 12134
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Assembly"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Introduction to Bash Scripting",
+              "description": "by Bobby Iliev",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 314036011,
+                "language": "HTML",
+                "last_commit": "2026-02-11T18:20:42Z",
+                "owner": "bobbyiliev",
+                "repo": "introduction-to-bash-scripting",
+                "stars": 6311
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Bash"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Hacktical C: A practical hacker's guide to the C programming language",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 950258198,
+                "language": "C",
+                "last_commit": "2026-03-21T12:09:07Z",
+                "owner": "codr7",
+                "repo": "hacktical-c",
+                "stars": 1123
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "C"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Datalog in Rust",
+              "description": "by Frank McSherry",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40350180,
+                "language": "JavaScript",
+                "last_commit": "2026-07-29T14:07:16Z",
+                "owner": "frankmcsherry",
+                "repo": "blog",
+                "stars": 2119
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Prolog"
+        },
         {
           "children": [
             {
@@ -242,7 +653,7 @@
                 "last_commit": "2026-08-20T19:58:48Z",
                 "owner": "Asabeneh",
                 "repo": "30-Days-Of-Python",
-                "stars": 71688
+                "stars": 71777
               }
             },
             {
@@ -272,6 +683,56 @@
       "description": null,
       "items": [
         {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MS-DOS development resources",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1039136645,
+                "language": null,
+                "last_commit": "2026-04-10T18:06:32Z",
+                "owner": "SuperIlu",
+                "repo": "DOSDevelResources",
+                "stars": 147
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "DOS"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ZX Spectrum Next: Assembly Developer Guide",
+              "description": "by Tomaz Kragelj",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 355464285,
+                "language": "TeX",
+                "last_commit": "2023-03-27T13:41:17Z",
+                "owner": "tomaz",
+                "repo": "zx-next-dev-guide",
+                "stars": 185
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "ZX Spectrum and Z80 CPU"
+        }
+      ],
+      "title": "Retrocomputing"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "node_type": "item",
           "title": "Mathematics for Robotics",
           "description": "by Jessy Grizzle",
@@ -283,7 +744,7 @@
             "last_commit": "2022-03-21T15:33:13Z",
             "owner": "michiganrobotics",
             "repo": "rob501",
-            "stars": 2862
+            "stars": 2864
           }
         },
         {
@@ -298,11 +759,147 @@
             "last_commit": "2025-11-25T22:56:19Z",
             "owner": "henki-robotics",
             "repo": "robotics_essentials_ros2",
-            "stars": 2571
+            "stars": 2575
           }
         }
       ],
       "title": "Robotics"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Learn Vim (the Smart Way)",
+              "description": "by Igor Irianto",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 279310322,
+                "language": "Dockerfile",
+                "last_commit": "2026-04-23T14:36:12Z",
+                "owner": "iggredible",
+                "repo": "Learn-Vim",
+                "stars": 15192
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Vim"
+        }
+      ],
+      "title": "Text editors"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "What happens when you type google.com into your browser's address box and press enter?",
+          "description": "by Alex Gaynor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14194174,
+            "language": null,
+            "last_commit": "2024-08-19T13:02:25Z",
+            "owner": "alex",
+            "repo": "what-happens-when",
+            "stars": 43301
+          }
+        }
+      ],
+      "title": "Web programming"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "Playing with code",
+              "description": "by Dmitry V. Sokolov",
+              "children": [
+                {
+                  "node_type": "group",
+                  "title": "On the author's GitHub",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "Tiny renderer or how OpenGL works: software rendering in 500 lines of code",
+                      "description": null,
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 29397594,
+                        "language": "C++",
+                        "last_commit": "2026-07-29T12:13:12Z",
+                        "owner": "ssloy",
+                        "repo": "tinyrenderer",
+                        "stars": 24141
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Understandable RayTracing in 256 lines of bare C++",
+                      "description": null,
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 166652275,
+                        "language": "C++",
+                        "last_commit": "2023-07-07T05:37:37Z",
+                        "owner": "ssloy",
+                        "repo": "tinyraytracer",
+                        "stars": 5357
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "KABOOM! in 180 lines of bare C++",
+                      "description": null,
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 167809514,
+                        "language": "C++",
+                        "last_commit": "2023-02-22T02:44:54Z",
+                        "owner": "ssloy",
+                        "repo": "tinykaboom",
+                        "stars": 2423
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "Least squares for programmers",
+                      "description": null,
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 222901933,
+                        "language": "TeX",
+                        "last_commit": "2023-12-04T05:39:23Z",
+                        "owner": "ssloy",
+                        "repo": "least-squares-course",
+                        "stars": 225
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Mixed Programming"
+        }
+      ],
+      "title": "Personal Websites and Blogs"
     },
     {
       "description": null,
@@ -319,7 +916,7 @@
             "last_commit": "2026-07-14T19:25:58Z",
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 542277
+            "stars": 542530
           }
         },
         {
@@ -331,10 +928,10 @@
             "archived": false,
             "id": 88011908,
             "language": "Python",
-            "last_commit": "2026-08-17T06:46:47Z",
+            "last_commit": "2026-08-24T07:38:50Z",
             "owner": "practical-tutorials",
             "repo": "project-based-learning",
-            "stars": 280474
+            "stars": 280600
           }
         },
         {
@@ -349,7 +946,7 @@
             "last_commit": "2026-08-14T09:37:03Z",
             "owner": "valeman",
             "repo": "Awesome_Math_Books",
-            "stars": 7012
+            "stars": 7018
           }
         },
         {
@@ -372,10 +969,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T15:57:55.328Z",
+    "last_updated": "2026-08-24T14:06:11.818Z",
     "original_repository": "bobeff/programming-math-science",
     "original_repository_id": 400507157,
-    "original_repository_sha": "4e7cf5e177598cb4072e709963623fed8f863d08",
+    "original_repository_sha": "df2d8a3f262dd675410d753ce0b6073daeeffd8e",
     "enhanced_repository": "enhansome/enhansome-programming-math-science",
     "enhanced_repository_description": null,
     "title": "Awesome Programming, Math, Science with stars"
