@@ -186,7 +186,7 @@ This is a list of links to different freely available learning resources about c
 
 ## AI
 
-* [Maths, CS & AI Compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) ⭐ 7,361 | 🐛 15 | 🌐 TypeScript | 📅 2026-07-18 by *Henry Ndubuaku*
+* [Maths, CS & AI Compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium) ⭐ 7,362 | 🐛 15 | 🌐 TypeScript | 📅 2026-07-18 by *Henry Ndubuaku*
 
 * [Agentic Design Patterns](https://docs.google.com/document/u/0/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/mobilebasic) by *Antonio Gulli*
 
@@ -194,7 +194,7 @@ This is a list of links to different freely available learning resources about c
 
 ### Machine Learning
 
-* [Machine Learning Engineering Open Book](https://github.com/stas00/ml-engineering) ⭐ 18,696 | 🐛 4 | 🌐 Python | 📅 2026-08-23 by *Stas Bekman*
+* [Machine Learning Engineering Open Book](https://github.com/stas00/ml-engineering) ⭐ 18,697 | 🐛 4 | 🌐 Python | 📅 2026-08-23 by *Stas Bekman*
 
 * [Harvard's undergraduate course in Machine Learning](https://github.com/harvard-ml-courses/cs181-textbook) ⭐ 369 | 🐛 33 | 🌐 TeX | 📅 2025-06-29 by *William J. Deuschle*
 
@@ -404,7 +404,7 @@ This is a list of links to different freely available learning resources about c
 
 #### Reinforcement learning
 
-* [Mathematical Foundations of Reinforcement Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning) ⭐ 17,551 | 🐛 0 | 🌐 MATLAB | 📅 2026-08-10 by *Shiyu Zhao*
+* [Mathematical Foundations of Reinforcement Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning) ⭐ 17,553 | 🐛 0 | 🌐 MATLAB | 📅 2026-08-10 by *Shiyu Zhao*
 
 * [Deep Reinforcement Learning: Zero to Hero!](https://github.com/alessiodm/drl-zh) ⭐ 2,292 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2026-05-26
 
@@ -2493,7 +2493,7 @@ This is a list of links to different freely available learning resources about c
 
 ## Operating Systems
 
-* [Linux Basics for Hackers](https://github.com/ahegazy0/linux-basics-for-hackers-notes) ⭐ 1,299 | 🐛 0 | 📅 2026-06-04 by *Abdulrahman Hegazy*
+* [Linux Basics for Hackers](https://github.com/ahegazy0/linux-basics-for-hackers-notes) ⭐ 1,300 | 🐛 0 | 📅 2026-06-04 by *Abdulrahman Hegazy*
 
 * [A Commentary On The Sixth Edition Unix Operating System](https://warsus.github.io/lions-) by *J. Lions*
 
@@ -3006,7 +3006,7 @@ This is a list of links to different freely available learning resources about c
 
 ### Python
 
-* [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python) ⭐ 71,777 | 🐛 197 | 🌐 Python | 📅 2026-08-20 by *Asabeneh*
+* [30 Days Of Python](https://github.com/Asabeneh/30-Days-Of-Python) ⭐ 71,788 | 🐛 197 | 🌐 Python | 📅 2026-08-20 by *Asabeneh*
 
 * [Scientific Visualization: Python + Matplotlib](https://github.com/rougier/scientific-visualization-book) ⭐ 11,439 | 🐛 18 | 🌐 Python | 📅 2026-01-04 by *Nicolas Rougier*
 
@@ -3308,7 +3308,7 @@ This is a list of links to different freely available learning resources about c
 
 ## Robotics
 
-* [Mathematics for Robotics](https://github.com/michiganrobotics/rob501) ⭐ 2,864 | 🐛 1 | 📅 2022-03-21 by *Jessy Grizzle*
+* [Mathematics for Robotics](https://github.com/michiganrobotics/rob501) ⭐ 2,865 | 🐛 1 | 📅 2022-03-21 by *Jessy Grizzle*
 
 * [Robotics & ROS 2 Essentials](https://github.com/henki-robotics/robotics_essentials_ros2) ⭐ 2,575 | 🐛 1 | 🌐 C++ | 📅 2025-11-25
 
@@ -4046,11 +4046,11 @@ This is a list of links to different freely available learning resources about c
 
 ## Other lists
 
-* [Build Your Own X](https://github.com/danistefanovic/build-your-own-x/blob/master/README.md) ⭐ 542,530 | 🐛 639 | 🌐 Markdown | 📅 2026-07-14
+* [Build Your Own X](https://github.com/danistefanovic/build-your-own-x/blob/master/README.md) ⭐ 542,559 | 🐛 639 | 🌐 Markdown | 📅 2026-07-14
 
-* [Project Based Learning](https://github.com/practical-tutorials/project-based-learning/blob/master/README.md) ⭐ 280,600 | 🐛 270 | 🌐 Python | 📅 2026-08-24
+* [Project Based Learning](https://github.com/practical-tutorials/project-based-learning/blob/master/README.md) ⭐ 280,618 | 🐛 270 | 🌐 Python | 📅 2026-08-24
 
-* [Awesome Math Books](https://github.com/valeman/Awesome_Math_Books) ⭐ 7,018 | 🐛 7 | 📅 2026-08-14
+* [Awesome Math Books](https://github.com/valeman/Awesome_Math_Books) ⭐ 7,017 | 🐛 7 | 📅 2026-08-14
 
 * [Max Slater's Bookmarks](https://github.com/TheNumbat/Lists) ⭐ 353 | 🐛 0 | 📅 2026-01-24
 

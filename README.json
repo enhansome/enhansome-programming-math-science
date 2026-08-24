@@ -15,7 +15,7 @@
             "last_commit": "2026-07-18T22:19:35Z",
             "owner": "HenryNdubuaku",
             "repo": "maths-cs-ai-compendium",
-            "stars": 7361
+            "stars": 7362
           }
         },
         {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-23T16:51:42Z",
                 "owner": "stas00",
                 "repo": "ml-engineering",
-                "stars": 18696
+                "stars": 18697
               }
             },
             {
@@ -108,7 +108,7 @@
                     "last_commit": "2026-08-10T06:39:05Z",
                     "owner": "MathFoundationRL",
                     "repo": "Book-Mathematical-Foundation-of-Reinforcement-Learning",
-                    "stars": 17551
+                    "stars": 17553
                   }
                 },
                 {
@@ -520,7 +520,7 @@
             "last_commit": "2026-06-04T19:11:52Z",
             "owner": "ahegazy0",
             "repo": "linux-basics-for-hackers-notes",
-            "stars": 1299
+            "stars": 1300
           }
         },
         {
@@ -653,7 +653,7 @@
                 "last_commit": "2026-08-20T19:58:48Z",
                 "owner": "Asabeneh",
                 "repo": "30-Days-Of-Python",
-                "stars": 71777
+                "stars": 71788
               }
             },
             {
@@ -744,7 +744,7 @@
             "last_commit": "2022-03-21T15:33:13Z",
             "owner": "michiganrobotics",
             "repo": "rob501",
-            "stars": 2864
+            "stars": 2865
           }
         },
         {
@@ -916,7 +916,7 @@
             "last_commit": "2026-07-14T19:25:58Z",
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 542530
+            "stars": 542559
           }
         },
         {
@@ -931,7 +931,7 @@
             "last_commit": "2026-08-24T07:38:50Z",
             "owner": "practical-tutorials",
             "repo": "project-based-learning",
-            "stars": 280600
+            "stars": 280618
           }
         },
         {
@@ -946,7 +946,7 @@
             "last_commit": "2026-08-14T09:37:03Z",
             "owner": "valeman",
             "repo": "Awesome_Math_Books",
-            "stars": 7018
+            "stars": 7017
           }
         },
         {
@@ -969,7 +969,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:06:11.818Z",
+    "last_updated": "2026-08-24T16:16:19.259Z",
     "original_repository": "bobeff/programming-math-science",
     "original_repository_id": 400507157,
     "original_repository_sha": "df2d8a3f262dd675410d753ce0b6073daeeffd8e",
