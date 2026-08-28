@@ -15,7 +15,7 @@
             "last_commit": "2026-07-18T22:19:35Z",
             "owner": "HenryNdubuaku",
             "repo": "maths-cs-ai-compendium",
-            "stars": 7373
+            "stars": 7372
           }
         },
         {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 292374787,
                 "language": "Python",
-                "last_commit": "2026-08-26T00:27:36Z",
+                "last_commit": "2026-08-27T17:40:40Z",
                 "owner": "stas00",
                 "repo": "ml-engineering",
-                "stars": 18774
+                "stars": 18792
               }
             },
             {
@@ -108,7 +108,7 @@
                     "last_commit": "2026-08-10T06:39:05Z",
                     "owner": "MathFoundationRL",
                     "repo": "Book-Mathematical-Foundation-of-Reinforcement-Learning",
-                    "stars": 17586
+                    "stars": 17589
                   }
                 },
                 {
@@ -176,7 +176,7 @@
             "last_commit": "2026-08-25T16:33:19Z",
             "owner": "lightvector",
             "repo": "KataGo",
-            "stars": 5039
+            "stars": 5040
           }
         },
         {
@@ -344,7 +344,7 @@
                 "last_commit": "2023-06-25T21:58:57Z",
                 "owner": "lettier",
                 "repo": "3d-game-shaders-for-beginners",
-                "stars": 19855
+                "stars": 19857
               }
             },
             {
@@ -537,7 +537,7 @@
                 "last_commit": "2024-02-10T03:24:45Z",
                 "owner": "rust-embedded",
                 "repo": "rust-raspberrypi-OS-tutorials",
-                "stars": 14727
+                "stars": 14729
               }
             }
           ],
@@ -565,7 +565,7 @@
                 "last_commit": "2026-02-22T16:52:19Z",
                 "owner": "FFmpeg",
                 "repo": "asm-lessons",
-                "stars": 12134
+                "stars": 12137
               }
             }
           ],
@@ -587,7 +587,7 @@
                 "last_commit": "2026-02-11T18:20:42Z",
                 "owner": "bobbyiliev",
                 "repo": "introduction-to-bash-scripting",
-                "stars": 6318
+                "stars": 6319
               }
             }
           ],
@@ -650,10 +650,10 @@
                 "archived": false,
                 "id": 222751131,
                 "language": "Python",
-                "last_commit": "2026-08-27T11:56:12Z",
+                "last_commit": "2026-08-27T11:58:35Z",
                 "owner": "Asabeneh",
                 "repo": "30-Days-Of-Python",
-                "stars": 71992
+                "stars": 72042
               }
             },
             {
@@ -668,7 +668,7 @@
                 "last_commit": "2026-01-04T13:29:20Z",
                 "owner": "rougier",
                 "repo": "scientific-visualization-book",
-                "stars": 11447
+                "stars": 11448
               }
             }
           ],
@@ -696,7 +696,7 @@
                 "last_commit": "2026-04-10T18:06:32Z",
                 "owner": "SuperIlu",
                 "repo": "DOSDevelResources",
-                "stars": 149
+                "stars": 150
               }
             }
           ],
@@ -744,7 +744,7 @@
             "last_commit": "2022-03-21T15:33:13Z",
             "owner": "michiganrobotics",
             "repo": "rob501",
-            "stars": 2873
+            "stars": 2903
           }
         },
         {
@@ -808,7 +808,7 @@
             "last_commit": "2024-08-19T13:02:25Z",
             "owner": "alex",
             "repo": "what-happens-when",
-            "stars": 43300
+            "stars": 43302
           }
         }
       ],
@@ -841,7 +841,7 @@
                         "last_commit": "2026-07-29T12:13:12Z",
                         "owner": "ssloy",
                         "repo": "tinyrenderer",
-                        "stars": 24148
+                        "stars": 24150
                       }
                     },
                     {
@@ -916,7 +916,7 @@
             "last_commit": "2026-07-14T19:25:58Z",
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 543326
+            "stars": 543451
           }
         },
         {
@@ -931,7 +931,7 @@
             "last_commit": "2026-08-24T07:38:50Z",
             "owner": "practical-tutorials",
             "repo": "project-based-learning",
-            "stars": 281046
+            "stars": 281110
           }
         },
         {
@@ -946,7 +946,7 @@
             "last_commit": "2026-08-14T09:37:03Z",
             "owner": "valeman",
             "repo": "Awesome_Math_Books",
-            "stars": 7026
+            "stars": 7034
           }
         },
         {
@@ -961,7 +961,7 @@
             "last_commit": "2026-01-24T17:36:44Z",
             "owner": "TheNumbat",
             "repo": "Lists",
-            "stars": 353
+            "stars": 354
           }
         }
       ],
@@ -969,7 +969,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:56:39.852Z",
+    "last_updated": "2026-08-28T00:36:12.156Z",
     "original_repository_info": {
       "archived": false,
       "id": 400507157,
