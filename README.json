@@ -10,12 +10,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Become a cracked AI/ML researcher/engineer with this unconventional textbook covering maths, computing, and ML with intuition.",
+            "homepage": null,
             "id": 1149023093,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-18T22:19:35Z",
+            "open_issues": 15,
             "owner": "HenryNdubuaku",
             "repo": "maths-cs-ai-compendium",
-            "stars": 7377
+            "stars": 7378,
+            "topics": [
+              "ai-textbook",
+              "algorithms",
+              "artificial-intelligence",
+              "computer-science",
+              "computer-vision",
+              "deep-learning",
+              "jax",
+              "linear-algebra",
+              "machine-learning",
+              "machine-learning-algorithms",
+              "math",
+              "mathematics",
+              "multimodal-learning",
+              "nlp",
+              "probability",
+              "python",
+              "reinforcement-learning",
+              "speech-processing",
+              "statistics"
+            ]
           },
           "first_seen": "2026-08-29T00:07:05.117Z"
         },
@@ -28,12 +53,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Machine Learning Engineering Open Book",
+                "homepage": "https://stasosphere.com/machine-learning/",
                 "id": 292374787,
                 "language": "Python",
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2026-08-27T17:40:40Z",
+                "open_issues": 4,
                 "owner": "stas00",
                 "repo": "ml-engineering",
-                "stars": 18825
+                "stars": 18828,
+                "topics": [
+                  "ai",
+                  "debugging",
+                  "gpus",
+                  "inference",
+                  "large-language-models",
+                  "llm",
+                  "machine-learning",
+                  "machine-learning-engineering",
+                  "mlops",
+                  "network",
+                  "pytorch",
+                  "scalability",
+                  "slurm",
+                  "storage",
+                  "training",
+                  "transformers"
+                ]
               },
               "first_seen": "2026-08-29T00:07:05.117Z"
             },
@@ -44,12 +91,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 160216952,
                 "language": "TeX",
+                "license": null,
                 "last_commit": "2025-06-29T03:57:41Z",
+                "open_issues": 33,
                 "owner": "harvard-ml-courses",
                 "repo": "cs181-textbook",
-                "stars": 369
+                "stars": 369,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:07:05.117Z"
             },
@@ -60,12 +112,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 160216952,
                 "language": "TeX",
+                "license": null,
                 "last_commit": "2025-06-29T03:57:41Z",
+                "open_issues": 33,
                 "owner": "harvard-ml-courses",
                 "repo": "cs181-textbook",
-                "stars": 369
+                "stars": 369,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:07:05.117Z"
             },
@@ -83,12 +140,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "MIT IAP short course: Matrix Calculus for Machine Learning and Beyond",
+                        "homepage": null,
                         "id": 444473308,
                         "language": "Jupyter Notebook",
+                        "license": null,
                         "last_commit": "2026-01-31T16:14:45Z",
+                        "open_issues": 2,
                         "owner": "mitmath",
                         "repo": "matrixcalc",
-                        "stars": 607
+                        "stars": 607,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:07:05.117Z"
                     }
@@ -108,12 +170,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This is the homepage of a new book entitled \"Mathematical Foundations of Reinforcement Learning.\"",
+                    "homepage": null,
                     "id": 522133400,
                     "language": "MATLAB",
+                    "license": null,
                     "last_commit": "2026-08-10T06:39:05Z",
+                    "open_issues": 0,
                     "owner": "MathFoundationRL",
                     "repo": "Book-Mathematical-Foundation-of-Reinforcement-Learning",
-                    "stars": 17605
+                    "stars": 17606,
+                    "topics": [
+                      "artificial-intelligence",
+                      "book",
+                      "courses",
+                      "reinforcement-learning",
+                      "tutorials"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:07:05.117Z"
                 },
@@ -124,12 +197,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Deep Reinforcement Learning: Zero to Hero!",
+                    "homepage": null,
                     "id": 741616456,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2026-05-26T16:54:31Z",
+                    "open_issues": 4,
                     "owner": "alessiodm",
                     "repo": "drl-zh",
-                    "stars": 2293
+                    "stars": 2293,
+                    "topics": [
+                      "deep-learning",
+                      "deep-reinforcement-learning",
+                      "machine-learning",
+                      "reinforcement-learning"
+                    ]
                   },
                   "first_seen": "2026-08-29T00:07:05.117Z"
                 }
@@ -152,12 +235,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A disciplined methodology for AI-assisted software development. Covers architectural constraints, validation hooks, session governance, and PAG (Pattern Abstract Grammar) for structured AI collaboration. Copy claude-setup/ into your project to start.",
+                "homepage": "https://banes-lab.com",
                 "id": 1050485604,
                 "language": "Python",
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2026-04-02T14:58:53Z",
+                "open_issues": 1,
                 "owner": "Varietyz",
                 "repo": "Disciplined-AI-Software-Development",
-                "stars": 405
+                "stars": 405,
+                "topics": [
+                  "ai-assisted-development",
+                  "ai-governance",
+                  "claude-code",
+                  "llm-governance",
+                  "pag",
+                  "prompt-engineering",
+                  "software-architecture",
+                  "software-methodology"
+                ]
               },
               "first_seen": "2026-08-29T00:07:05.117Z"
             }
@@ -179,12 +276,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GTP engine and self-play learning in Go",
+            "homepage": "https://katagotraining.org/",
             "id": 172640711,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T16:33:19Z",
+            "open_issues": 492,
             "owner": "lightvector",
             "repo": "KataGo",
-            "stars": 5041
+            "stars": 5043,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:05.117Z"
         },
@@ -195,12 +297,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Clever Algorithms: Nature-Inspired Programming Recipes",
+            "homepage": "https://CleverAlgorithms.com",
             "id": 455621,
             "language": "TeX",
+            "license": null,
             "last_commit": "2024-12-20T03:55:29Z",
+            "open_issues": 32,
             "owner": "Jason2Brownlee",
             "repo": "CleverAlgorithms",
-            "stars": 2115
+            "stars": 2115,
+            "topics": [
+              "algorithms",
+              "book",
+              "computational-intelligence",
+              "machine-learning-algorithms",
+              "optimization-algorithms"
+            ]
           },
           "first_seen": "2026-08-29T00:07:05.117Z"
         },
@@ -211,12 +324,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bake a cake with care, follow steps the recipe gives, that’s an algorithm.",
+            "homepage": "https://little-book-of.github.io/algorithms/",
             "id": 1053314634,
             "language": "TeX",
+            "license": "NOASSERTION",
             "last_commit": "2025-10-25T17:49:43Z",
+            "open_issues": 0,
             "owner": "little-book-of",
             "repo": "algorithms",
-            "stars": 559
+            "stars": 559,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:05.117Z"
         }
@@ -235,12 +353,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a game to learn (or teach) how to use standard commands in a Unix shell",
+                "homepage": null,
                 "id": 94422621,
                 "language": "Shell",
+                "license": "GPL-3.0",
                 "last_commit": "2026-05-05T19:00:45Z",
+                "open_issues": 11,
                 "owner": "phyver",
                 "repo": "GameShell",
-                "stars": 3163
+                "stars": 3162,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:07:05.117Z"
             }
@@ -262,12 +385,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Compiler Writing Journey",
+            "homepage": null,
             "id": 215973962,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2026-06-06T21:17:51Z",
+            "open_issues": 25,
             "owner": "DoctorWkt",
             "repo": "acwj",
-            "stars": 13390
+            "stars": 13390,
+            "topics": [
+              "c",
+              "compiler",
+              "lexical-analysis",
+              "parsing"
+            ]
           },
           "first_seen": "2026-08-29T00:07:05.117Z"
         }
@@ -286,12 +419,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repo contains the DirectX Graphics samples that demonstrate how to build graphics intensive applications on Windows.",
+                "homepage": null,
                 "id": 36831874,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-14T18:48:25Z",
+                "open_issues": 112,
                 "owner": "microsoft",
                 "repo": "DirectX-Graphics-Samples",
-                "stars": 6820
+                "stars": 6820,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:07:05.117Z"
             }
@@ -309,12 +447,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Drawing graphics efficiently on Apple Vision using the Metal rendering API",
+                "homepage": null,
                 "id": 862878435,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-07-09T07:04:19Z",
+                "open_issues": 0,
                 "owner": "gnikoloff",
                 "repo": "drawing-graphics-on-apple-vision-with-metal-rendering-api",
-                "stars": 304
+                "stars": 304,
+                "topics": [
+                  "applevisionpro",
+                  "avp",
+                  "graphics",
+                  "graphics-programming",
+                  "metal",
+                  "metalapi",
+                  "rendering",
+                  "rendering-engine",
+                  "swift"
+                ]
               },
               "first_seen": "2026-08-29T00:07:05.117Z"
             }
@@ -332,12 +485,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A guide to using modern OpenGL functions.",
+                "homepage": null,
                 "id": 69830476,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2021-11-08T08:01:54Z",
+                "open_issues": 3,
                 "owner": "fendevel",
                 "repo": "Guide-to-Modern-OpenGL-Functions",
-                "stars": 1459
+                "stars": 1459,
+                "topics": [
+                  "direct-state-access",
+                  "dsa",
+                  "modern",
+                  "modern-opengl",
+                  "modern-opengl-functions",
+                  "opengl",
+                  "opengl-dsa",
+                  "pipeline-object",
+                  "texture-atlas",
+                  "textureview",
+                  "uniform"
+                ]
               },
               "first_seen": "2026-08-29T00:07:05.117Z"
             }
@@ -355,12 +525,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.",
+                "homepage": "https://lettier.github.io/3d-game-shaders-for-beginners/index.html",
                 "id": 186309296,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2023-06-25T21:58:57Z",
+                "open_issues": 18,
                 "owner": "lettier",
                 "repo": "3d-game-shaders-for-beginners",
-                "stars": 19859
+                "stars": 19859,
+                "topics": [
+                  "3d",
+                  "3d-graphics",
+                  "game-development",
+                  "gamedev",
+                  "glsl",
+                  "glsl-shader",
+                  "glsl-shaders",
+                  "godot",
+                  "graphics",
+                  "graphics-programming",
+                  "hlsl",
+                  "indiedev",
+                  "opengl",
+                  "panda3d",
+                  "shader",
+                  "shaders",
+                  "unity",
+                  "unity3d",
+                  "vulkan",
+                  "webgl"
+                ]
               },
               "first_seen": "2026-08-29T00:07:05.117Z"
             },
@@ -371,12 +567,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shaders For People Who Don't Know How To Shader, a tutorial series for beginners!",
+                "homepage": "https://patreon.com/teamdogpit",
                 "id": 202934467,
                 "language": "ShaderLab",
+                "license": "NOASSERTION",
                 "last_commit": "2024-03-01T18:06:13Z",
+                "open_issues": 3,
                 "owner": "Xibanya",
                 "repo": "ShaderTutorials",
-                "stars": 1296
+                "stars": 1296,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:07:05.117Z"
             }
@@ -398,12 +599,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A comprehensive guide for Linux Network (Socket) programming",
+            "homepage": null,
             "id": 859389597,
             "language": "C",
+            "license": null,
             "last_commit": "2025-01-19T16:43:33Z",
+            "open_issues": 0,
             "owner": "nguyenchiemminhvu",
             "repo": "LinuxNetworkProgramming",
-            "stars": 551
+            "stars": 551,
+            "topics": [
+              "c",
+              "cpp",
+              "network-programming",
+              "socket-programming"
+            ]
           },
           "first_seen": "2026-08-29T00:07:05.117Z"
         },
@@ -414,12 +625,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementing TCP In Rust",
+            "homepage": null,
             "id": 712468327,
             "language": null,
+            "license": "CC-BY-4.0",
             "last_commit": "2024-06-05T08:16:23Z",
+            "open_issues": 5,
             "owner": "Ghvstcode",
             "repo": "Rust-Tcp",
-            "stars": 462
+            "stars": 462,
+            "topics": [
+              "network-programming",
+              "rust",
+              "tcp",
+              "tcp-ip",
+              "tun-tap"
+            ]
           },
           "first_seen": "2026-08-29T00:07:05.117Z"
         }
@@ -436,12 +658,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tutorial series demonstrating how to build a retro first-person shooter from scratch in Swift",
+            "homepage": null,
             "id": 185656427,
             "language": "Swift",
+            "license": "NOASSERTION",
             "last_commit": "2021-04-17T06:50:05Z",
+            "open_issues": 11,
             "owner": "nicklockwood",
             "repo": "RetroRampage",
-            "stars": 1535
+            "stars": 1535,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:05.117Z"
         }
@@ -458,12 +685,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The book \"Performance Analysis and Tuning on Modern CPU\"",
+            "homepage": "https://products.easyperf.net/perf-book-2",
             "id": 435609557,
             "language": "TeX",
+            "license": "CC0-1.0",
             "last_commit": "2025-06-09T19:19:54Z",
+            "open_issues": 21,
             "owner": "dendibakh",
             "repo": "perf-book",
-            "stars": 3631
+            "stars": 3631,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:05.117Z"
         }
@@ -484,12 +716,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A concise, beginner-friendly introduction to the core ideas of linear algebra.",
+                    "homepage": "https://little-book-of.github.io/linear-algebra/",
                     "id": 1048796077,
                     "language": "Jupyter Notebook",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-03-16T14:47:03Z",
+                    "open_issues": 3,
                     "owner": "little-book-of",
                     "repo": "linear-algebra",
-                    "stars": 1995
+                    "stars": 1995,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T00:07:05.117Z"
                 }
@@ -512,12 +749,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "the statistics handbook open source repository",
+                "homepage": null,
                 "id": 586325708,
                 "language": "TeX",
+                "license": "NOASSERTION",
                 "last_commit": "2025-12-22T19:18:47Z",
+                "open_issues": 0,
                 "owner": "carloocchiena",
                 "repo": "the_statistics_handbook",
-                "stars": 271
+                "stars": 271,
+                "topics": [
+                  "data-science",
+                  "latex",
+                  "mathematics",
+                  "statistics"
+                ]
               },
               "first_seen": "2026-08-29T00:07:05.117Z"
             }
@@ -539,12 +786,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A structured course built from personal study notes of the book Linux Basics for Hackers by OccupyTheWeb.",
+            "homepage": null,
             "id": 1234188479,
             "language": null,
+            "license": null,
             "last_commit": "2026-06-04T19:11:52Z",
+            "open_issues": 0,
             "owner": "ahegazy0",
             "repo": "linux-basics-for-hackers-notes",
-            "stars": 1304
+            "stars": 1304,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:05.117Z"
         },
@@ -557,12 +809,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":books: Learn to write an embedded OS in Rust :crab:",
+                "homepage": null,
                 "id": 127553476,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2024-02-10T03:24:45Z",
+                "open_issues": 24,
                 "owner": "rust-embedded",
                 "repo": "rust-raspberrypi-OS-tutorials",
-                "stars": 14729
+                "stars": 14729,
+                "topics": [
+                  "aarch64",
+                  "arm64",
+                  "armv8",
+                  "bare-metal",
+                  "embedded-rust",
+                  "kernel",
+                  "operating-system",
+                  "os",
+                  "raspberry",
+                  "raspberry-pi",
+                  "raspberry-pi-3",
+                  "raspberry-pi-4",
+                  "rpi3",
+                  "rpi4",
+                  "rust",
+                  "tutorial"
+                ]
               },
               "first_seen": "2026-08-29T00:07:05.117Z"
             }
@@ -586,12 +860,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FFmpeg Assembly Language Lessons",
+                "homepage": null,
                 "id": 909469481,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-02-22T16:52:19Z",
+                "open_issues": 25,
                 "owner": "FFmpeg",
                 "repo": "asm-lessons",
-                "stars": 12139
+                "stars": 12139,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:07:05.117Z"
             }
@@ -609,12 +888,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free Introduction to Bash Scripting eBook",
+                "homepage": "https://leanpub.com/b/linux-devops-ebook-bundle",
                 "id": 314036011,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2026-02-11T18:20:42Z",
+                "open_issues": 10,
                 "owner": "bobbyiliev",
                 "repo": "introduction-to-bash-scripting",
-                "stars": 6321
+                "stars": 6322,
+                "topics": [
+                  "100daysofcode",
+                  "bash",
+                  "bash-script",
+                  "bash-scripting",
+                  "devops",
+                  "ebook",
+                  "hacktoberfest",
+                  "introduction-to-bash-scripting"
+                ]
               },
               "first_seen": "2026-08-29T00:07:05.117Z"
             }
@@ -632,12 +925,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A practical hacker's guide to the C programming language.",
+                "homepage": null,
                 "id": 950258198,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-03-21T12:09:07Z",
+                "open_issues": 0,
                 "owner": "codr7",
                 "repo": "hacktical-c",
-                "stars": 1123
+                "stars": 1123,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:07:05.117Z"
             }
@@ -655,12 +953,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Some notes on things I find interesting and important.",
+                "homepage": null,
                 "id": 40350180,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2026-07-29T14:07:16Z",
+                "open_issues": 8,
                 "owner": "frankmcsherry",
                 "repo": "blog",
-                "stars": 2119
+                "stars": 2119,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:07:05.117Z"
             }
@@ -678,12 +981,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw",
+                "homepage": null,
                 "id": 222751131,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-27T11:58:35Z",
+                "open_issues": 200,
                 "owner": "Asabeneh",
                 "repo": "30-Days-Of-Python",
-                "stars": 72125
+                "stars": 72134,
+                "topics": [
+                  "30-days-of-python",
+                  "data",
+                  "data-science",
+                  "database",
+                  "flask",
+                  "fullstack",
+                  "github",
+                  "heroku",
+                  "matplotlib",
+                  "ml",
+                  "mongodb",
+                  "numpy",
+                  "pandas",
+                  "python",
+                  "python3"
+                ]
               },
               "first_seen": "2026-08-29T00:07:05.117Z"
             },
@@ -694,12 +1018,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open access book on scientific visualization using python and matplotlib",
+                "homepage": "https://www.labri.fr/perso/nrougier/",
                 "id": 202693400,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-01-04T13:29:20Z",
+                "open_issues": 18,
                 "owner": "rougier",
                 "repo": "scientific-visualization-book",
-                "stars": 11452
+                "stars": 11454,
+                "topics": [
+                  "book",
+                  "dataviz",
+                  "matplotlib",
+                  "numpy",
+                  "open-access",
+                  "plotting",
+                  "python",
+                  "scientific-publications"
+                ]
               },
               "first_seen": "2026-08-29T00:07:05.117Z"
             }
@@ -723,12 +1061,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A short list of development resources for MS-DOS. Heavily influenced by my own projects and favorites",
+                "homepage": null,
                 "id": 1039136645,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-04-10T18:06:32Z",
+                "open_issues": 0,
                 "owner": "SuperIlu",
                 "repo": "DOSDevelResources",
-                "stars": 149
+                "stars": 149,
+                "topics": [
+                  "ms-dos",
+                  "retrocomputing",
+                  "retrodev"
+                ]
               },
               "first_seen": "2026-08-29T00:07:05.117Z"
             }
@@ -746,12 +1093,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Guide for ZX Spectrum Next assembler developer. Available as free to download PDF from releases page, or printed coil bound book at https://bit.ly/zx-next-assembler-dev-guide",
+                "homepage": null,
                 "id": 355464285,
                 "language": "TeX",
+                "license": "NOASSERTION",
                 "last_commit": "2023-03-27T13:41:17Z",
+                "open_issues": 14,
                 "owner": "tomaz",
                 "repo": "zx-next-dev-guide",
-                "stars": 185
+                "stars": 185,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:07:05.117Z"
             }
@@ -773,12 +1125,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mathematics for Robotics",
+            "homepage": null,
             "id": 452298460,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2022-03-21T15:33:13Z",
+            "open_issues": 1,
             "owner": "michiganrobotics",
             "repo": "rob501",
-            "stars": 2930
+            "stars": 2932,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:05.117Z"
         },
@@ -789,12 +1146,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learn the basics of robotics through hands-on experience using ROS 2 and Gazebo simulation.",
+            "homepage": null,
             "id": 880776535,
             "language": "C++",
+            "license": null,
             "last_commit": "2025-11-25T22:56:19Z",
+            "open_issues": 1,
             "owner": "henki-robotics",
             "repo": "robotics_essentials_ros2",
-            "stars": 2586
+            "stars": 2586,
+            "topics": [
+              "course",
+              "navigation",
+              "odometry",
+              "path-planning",
+              "ros2",
+              "slam"
+            ]
           },
           "first_seen": "2026-08-29T00:07:05.117Z"
         }
@@ -813,12 +1182,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖",
+                "homepage": null,
                 "id": 279310322,
                 "language": "Dockerfile",
+                "license": "NOASSERTION",
                 "last_commit": "2026-04-23T14:36:12Z",
+                "open_issues": 19,
                 "owner": "iggredible",
                 "repo": "Learn-Vim",
-                "stars": 15205
+                "stars": 15204,
+                "topics": [
+                  "advanced",
+                  "beginner",
+                  "book",
+                  "book-series",
+                  "code-editor",
+                  "editor",
+                  "education",
+                  "intermediate",
+                  "learning",
+                  "learning-to-code",
+                  "linux",
+                  "programming",
+                  "training-materials",
+                  "training-providers",
+                  "tutorial",
+                  "unix",
+                  "vim"
+                ]
               },
               "first_seen": "2026-08-29T00:07:05.117Z"
             }
@@ -840,12 +1232,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An attempt to answer the age old interview question \"What happens when you type google.com into your browser and press enter?\"",
+            "homepage": null,
             "id": 14194174,
             "language": null,
+            "license": null,
             "last_commit": "2024-08-19T13:02:25Z",
+            "open_issues": 2066,
             "owner": "alex",
             "repo": "what-happens-when",
-            "stars": 43305
+            "stars": 43305,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:05.117Z"
         }
@@ -874,12 +1271,38 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "A brief computer graphics / rendering course",
+                        "homepage": "https://haqr.eu/tinyrenderer/",
                         "id": 29397594,
                         "language": "C++",
+                        "license": "NOASSERTION",
                         "last_commit": "2026-07-29T12:13:12Z",
+                        "open_issues": 4,
                         "owner": "ssloy",
                         "repo": "tinyrenderer",
-                        "stars": 24152
+                        "stars": 24152,
+                        "topics": [
+                          "3d",
+                          "3d-graphics",
+                          "c-plus-plus",
+                          "computer-graphics",
+                          "cpp",
+                          "engine",
+                          "fun",
+                          "graphics",
+                          "images",
+                          "learning",
+                          "opengl",
+                          "picture",
+                          "pixels",
+                          "rasterizer",
+                          "rendering",
+                          "rendering-engine",
+                          "rendering-pipeline",
+                          "shaders",
+                          "software-rendering",
+                          "tutorial"
+                        ]
                       },
                       "first_seen": "2026-08-29T00:07:05.117Z"
                     },
@@ -890,12 +1313,35 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "A brief computer graphics / rendering course",
+                        "homepage": "https://github.com/ssloy/tinyraytracer/wiki",
                         "id": 166652275,
                         "language": "C++",
+                        "license": null,
                         "last_commit": "2023-07-07T05:37:37Z",
+                        "open_issues": 16,
                         "owner": "ssloy",
                         "repo": "tinyraytracer",
-                        "stars": 5357
+                        "stars": 5357,
+                        "topics": [
+                          "3d",
+                          "3d-graphics",
+                          "c-plus-plus",
+                          "computer-graphics",
+                          "cpp",
+                          "fun",
+                          "graphics",
+                          "images",
+                          "learning",
+                          "raytracer",
+                          "raytracing",
+                          "raytracing-engine",
+                          "rendering",
+                          "rendering-engine",
+                          "shaders",
+                          "software-renderer",
+                          "tutorial"
+                        ]
                       },
                       "first_seen": "2026-08-29T00:07:05.117Z"
                     },
@@ -906,12 +1352,34 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "A brief computer graphics / rendering course",
+                        "homepage": "https://github.com/ssloy/tinykaboom/wiki",
                         "id": 167809514,
                         "language": "C++",
+                        "license": null,
                         "last_commit": "2023-02-22T02:44:54Z",
+                        "open_issues": 2,
                         "owner": "ssloy",
                         "repo": "tinykaboom",
-                        "stars": 2423
+                        "stars": 2423,
+                        "topics": [
+                          "3d",
+                          "3d-graphics",
+                          "c-plus-plus",
+                          "computer-graphics",
+                          "cpp",
+                          "fun",
+                          "graphics",
+                          "graphics-programming",
+                          "learning",
+                          "raytracer",
+                          "raytracing",
+                          "raytracing-engine",
+                          "rendering",
+                          "rendering-engine",
+                          "shaders",
+                          "tutorial"
+                        ]
                       },
                       "first_seen": "2026-08-29T00:07:05.117Z"
                     },
@@ -922,12 +1390,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "By a programmer for programmers",
+                        "homepage": null,
                         "id": 222901933,
                         "language": "TeX",
+                        "license": "WTFPL",
                         "last_commit": "2023-12-04T05:39:23Z",
+                        "open_issues": 0,
                         "owner": "ssloy",
                         "repo": "least-squares-course",
-                        "stars": 225
+                        "stars": 225,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T00:07:05.117Z"
                     }
@@ -953,12 +1426,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Master programming by recreating your favorite technologies from scratch.",
+            "homepage": "https://codecrafters.io",
             "id": 132750724,
             "language": "Markdown",
+            "license": null,
             "last_commit": "2026-07-14T19:25:58Z",
+            "open_issues": 639,
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 543694
+            "stars": 543737,
+            "topics": [
+              "awesome-list",
+              "free",
+              "programming",
+              "tutorial-code",
+              "tutorial-exercises",
+              "tutorials"
+            ]
           },
           "first_seen": "2026-08-29T00:07:05.117Z"
         },
@@ -969,12 +1454,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated list of project-based tutorials",
+            "homepage": null,
             "id": 88011908,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T07:38:50Z",
+            "open_issues": 271,
             "owner": "practical-tutorials",
             "repo": "project-based-learning",
-            "stars": 281192
+            "stars": 281200,
+            "topics": [
+              "beginner-project",
+              "cpp",
+              "golang",
+              "javascript",
+              "project",
+              "python",
+              "tutorial",
+              "webdevelopment"
+            ]
           },
           "first_seen": "2026-08-29T00:07:05.117Z"
         },
@@ -985,12 +1484,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 850651449,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-14T09:37:03Z",
+            "open_issues": 7,
             "owner": "valeman",
             "repo": "Awesome_Math_Books",
-            "stars": 7054
+            "stars": 7057,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:05.117Z"
         },
@@ -1001,12 +1505,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bookmarks in graphics, algorithms, low level programming, math, languages",
+            "homepage": null,
             "id": 100203417,
             "language": null,
+            "license": null,
             "last_commit": "2026-01-24T17:36:44Z",
+            "open_issues": 0,
             "owner": "TheNumbat",
             "repo": "Lists",
-            "stars": 354
+            "stars": 354,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:07:05.117Z"
         }
@@ -1015,15 +1524,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:07:05.117Z",
+    "last_updated": "2026-08-29T04:28:53.195Z",
     "original_repository_info": {
       "archived": false,
+      "description": "This is a list of links to different freely available learning resources about computer programming, math, and science.",
+      "homepage": null,
       "id": 400507157,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-23T16:24:19Z",
+      "open_issues": 3,
       "owner": "bobeff",
       "repo": "programming-math-science",
-      "stars": 1906
+      "stars": 1906,
+      "topics": [
+        "awesome-list",
+        "math",
+        "programming",
+        "science"
+      ]
     },
     "original_repository_sha": "df2d8a3f262dd675410d753ce0b6073daeeffd8e",
     "enhanced_repository": "enhansome/enhansome-programming-math-science",
