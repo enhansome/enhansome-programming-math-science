@@ -15,8 +15,9 @@
             "last_commit": "2026-07-18T22:19:35Z",
             "owner": "HenryNdubuaku",
             "repo": "maths-cs-ai-compendium",
-            "stars": 7372
-          }
+            "stars": 7377
+          },
+          "first_seen": "2026-08-29T00:07:05.117Z"
         },
         {
           "children": [
@@ -32,8 +33,9 @@
                 "last_commit": "2026-08-27T17:40:40Z",
                 "owner": "stas00",
                 "repo": "ml-engineering",
-                "stars": 18792
-              }
+                "stars": 18825
+              },
+              "first_seen": "2026-08-29T00:07:05.117Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "harvard-ml-courses",
                 "repo": "cs181-textbook",
                 "stars": 369
-              }
+              },
+              "first_seen": "2026-08-29T00:07:05.117Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "harvard-ml-courses",
                 "repo": "cs181-textbook",
                 "stars": 369
-              }
+              },
+              "first_seen": "2026-08-29T00:07:05.117Z"
             },
             {
               "children": [
@@ -84,8 +88,9 @@
                         "last_commit": "2026-01-31T16:14:45Z",
                         "owner": "mitmath",
                         "repo": "matrixcalc",
-                        "stars": 606
-                      }
+                        "stars": 607
+                      },
+                      "first_seen": "2026-08-29T00:07:05.117Z"
                     }
                   ]
                 }
@@ -108,8 +113,9 @@
                     "last_commit": "2026-08-10T06:39:05Z",
                     "owner": "MathFoundationRL",
                     "repo": "Book-Mathematical-Foundation-of-Reinforcement-Learning",
-                    "stars": 17589
-                  }
+                    "stars": 17605
+                  },
+                  "first_seen": "2026-08-29T00:07:05.117Z"
                 },
                 {
                   "node_type": "item",
@@ -124,7 +130,8 @@
                     "owner": "alessiodm",
                     "repo": "drl-zh",
                     "stars": 2293
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:07:05.117Z"
                 }
               ],
               "description": null,
@@ -151,7 +158,8 @@
                 "owner": "Varietyz",
                 "repo": "Disciplined-AI-Software-Development",
                 "stars": 405
-              }
+              },
+              "first_seen": "2026-08-29T00:07:05.117Z"
             }
           ],
           "description": null,
@@ -176,8 +184,9 @@
             "last_commit": "2026-08-25T16:33:19Z",
             "owner": "lightvector",
             "repo": "KataGo",
-            "stars": 5040
-          }
+            "stars": 5041
+          },
+          "first_seen": "2026-08-29T00:07:05.117Z"
         },
         {
           "node_type": "item",
@@ -191,8 +200,9 @@
             "last_commit": "2024-12-20T03:55:29Z",
             "owner": "Jason2Brownlee",
             "repo": "CleverAlgorithms",
-            "stars": 2116
-          }
+            "stars": 2115
+          },
+          "first_seen": "2026-08-29T00:07:05.117Z"
         },
         {
           "node_type": "item",
@@ -207,7 +217,8 @@
             "owner": "little-book-of",
             "repo": "algorithms",
             "stars": 559
-          }
+          },
+          "first_seen": "2026-08-29T00:07:05.117Z"
         }
       ],
       "title": "Algorithms"
@@ -229,8 +240,9 @@
                 "last_commit": "2026-05-05T19:00:45Z",
                 "owner": "phyver",
                 "repo": "GameShell",
-                "stars": 3162
-              }
+                "stars": 3163
+              },
+              "first_seen": "2026-08-29T00:07:05.117Z"
             }
           ],
           "description": null,
@@ -255,8 +267,9 @@
             "last_commit": "2026-06-06T21:17:51Z",
             "owner": "DoctorWkt",
             "repo": "acwj",
-            "stars": 13389
-          }
+            "stars": 13390
+          },
+          "first_seen": "2026-08-29T00:07:05.117Z"
         }
       ],
       "title": "Compilers and Interpreters"
@@ -279,7 +292,8 @@
                 "owner": "microsoft",
                 "repo": "DirectX-Graphics-Samples",
                 "stars": 6820
-              }
+              },
+              "first_seen": "2026-08-29T00:07:05.117Z"
             }
           ],
           "description": null,
@@ -301,7 +315,8 @@
                 "owner": "gnikoloff",
                 "repo": "drawing-graphics-on-apple-vision-with-metal-rendering-api",
                 "stars": 304
-              }
+              },
+              "first_seen": "2026-08-29T00:07:05.117Z"
             }
           ],
           "description": null,
@@ -323,7 +338,8 @@
                 "owner": "fendevel",
                 "repo": "Guide-to-Modern-OpenGL-Functions",
                 "stars": 1459
-              }
+              },
+              "first_seen": "2026-08-29T00:07:05.117Z"
             }
           ],
           "description": null,
@@ -344,8 +360,9 @@
                 "last_commit": "2023-06-25T21:58:57Z",
                 "owner": "lettier",
                 "repo": "3d-game-shaders-for-beginners",
-                "stars": 19857
-              }
+                "stars": 19859
+              },
+              "first_seen": "2026-08-29T00:07:05.117Z"
             },
             {
               "node_type": "item",
@@ -360,7 +377,8 @@
                 "owner": "Xibanya",
                 "repo": "ShaderTutorials",
                 "stars": 1296
-              }
+              },
+              "first_seen": "2026-08-29T00:07:05.117Z"
             }
           ],
           "description": null,
@@ -385,8 +403,9 @@
             "last_commit": "2025-01-19T16:43:33Z",
             "owner": "nguyenchiemminhvu",
             "repo": "LinuxNetworkProgramming",
-            "stars": 550
-          }
+            "stars": 551
+          },
+          "first_seen": "2026-08-29T00:07:05.117Z"
         },
         {
           "node_type": "item",
@@ -401,7 +420,8 @@
             "owner": "Ghvstcode",
             "repo": "Rust-Tcp",
             "stars": 462
-          }
+          },
+          "first_seen": "2026-08-29T00:07:05.117Z"
         }
       ],
       "title": "Computer Networks and Network Programming"
@@ -422,7 +442,8 @@
             "owner": "nicklockwood",
             "repo": "RetroRampage",
             "stars": 1535
-          }
+          },
+          "first_seen": "2026-08-29T00:07:05.117Z"
         }
       ],
       "title": "Game Programming"
@@ -443,7 +464,8 @@
             "owner": "dendibakh",
             "repo": "perf-book",
             "stars": 3631
-          }
+          },
+          "first_seen": "2026-08-29T00:07:05.117Z"
         }
       ],
       "title": "Low Level Stuff"
@@ -468,7 +490,8 @@
                     "owner": "little-book-of",
                     "repo": "linear-algebra",
                     "stars": 1995
-                  }
+                  },
+                  "first_seen": "2026-08-29T00:07:05.117Z"
                 }
               ],
               "description": null,
@@ -495,7 +518,8 @@
                 "owner": "carloocchiena",
                 "repo": "the_statistics_handbook",
                 "stars": 271
-              }
+              },
+              "first_seen": "2026-08-29T00:07:05.117Z"
             }
           ],
           "description": null,
@@ -521,7 +545,8 @@
             "owner": "ahegazy0",
             "repo": "linux-basics-for-hackers-notes",
             "stars": 1304
-          }
+          },
+          "first_seen": "2026-08-29T00:07:05.117Z"
         },
         {
           "children": [
@@ -538,7 +563,8 @@
                 "owner": "rust-embedded",
                 "repo": "rust-raspberrypi-OS-tutorials",
                 "stars": 14729
-              }
+              },
+              "first_seen": "2026-08-29T00:07:05.117Z"
             }
           ],
           "description": null,
@@ -565,8 +591,9 @@
                 "last_commit": "2026-02-22T16:52:19Z",
                 "owner": "FFmpeg",
                 "repo": "asm-lessons",
-                "stars": 12137
-              }
+                "stars": 12139
+              },
+              "first_seen": "2026-08-29T00:07:05.117Z"
             }
           ],
           "description": null,
@@ -587,8 +614,9 @@
                 "last_commit": "2026-02-11T18:20:42Z",
                 "owner": "bobbyiliev",
                 "repo": "introduction-to-bash-scripting",
-                "stars": 6319
-              }
+                "stars": 6321
+              },
+              "first_seen": "2026-08-29T00:07:05.117Z"
             }
           ],
           "description": null,
@@ -610,7 +638,8 @@
                 "owner": "codr7",
                 "repo": "hacktical-c",
                 "stars": 1123
-              }
+              },
+              "first_seen": "2026-08-29T00:07:05.117Z"
             }
           ],
           "description": null,
@@ -632,7 +661,8 @@
                 "owner": "frankmcsherry",
                 "repo": "blog",
                 "stars": 2119
-              }
+              },
+              "first_seen": "2026-08-29T00:07:05.117Z"
             }
           ],
           "description": null,
@@ -653,8 +683,9 @@
                 "last_commit": "2026-08-27T11:58:35Z",
                 "owner": "Asabeneh",
                 "repo": "30-Days-Of-Python",
-                "stars": 72042
-              }
+                "stars": 72125
+              },
+              "first_seen": "2026-08-29T00:07:05.117Z"
             },
             {
               "node_type": "item",
@@ -668,8 +699,9 @@
                 "last_commit": "2026-01-04T13:29:20Z",
                 "owner": "rougier",
                 "repo": "scientific-visualization-book",
-                "stars": 11448
-              }
+                "stars": 11452
+              },
+              "first_seen": "2026-08-29T00:07:05.117Z"
             }
           ],
           "description": null,
@@ -696,8 +728,9 @@
                 "last_commit": "2026-04-10T18:06:32Z",
                 "owner": "SuperIlu",
                 "repo": "DOSDevelResources",
-                "stars": 150
-              }
+                "stars": 149
+              },
+              "first_seen": "2026-08-29T00:07:05.117Z"
             }
           ],
           "description": null,
@@ -719,7 +752,8 @@
                 "owner": "tomaz",
                 "repo": "zx-next-dev-guide",
                 "stars": 185
-              }
+              },
+              "first_seen": "2026-08-29T00:07:05.117Z"
             }
           ],
           "description": null,
@@ -744,8 +778,9 @@
             "last_commit": "2022-03-21T15:33:13Z",
             "owner": "michiganrobotics",
             "repo": "rob501",
-            "stars": 2903
-          }
+            "stars": 2930
+          },
+          "first_seen": "2026-08-29T00:07:05.117Z"
         },
         {
           "node_type": "item",
@@ -759,8 +794,9 @@
             "last_commit": "2025-11-25T22:56:19Z",
             "owner": "henki-robotics",
             "repo": "robotics_essentials_ros2",
-            "stars": 2583
-          }
+            "stars": 2586
+          },
+          "first_seen": "2026-08-29T00:07:05.117Z"
         }
       ],
       "title": "Robotics"
@@ -782,8 +818,9 @@
                 "last_commit": "2026-04-23T14:36:12Z",
                 "owner": "iggredible",
                 "repo": "Learn-Vim",
-                "stars": 15204
-              }
+                "stars": 15205
+              },
+              "first_seen": "2026-08-29T00:07:05.117Z"
             }
           ],
           "description": null,
@@ -808,8 +845,9 @@
             "last_commit": "2024-08-19T13:02:25Z",
             "owner": "alex",
             "repo": "what-happens-when",
-            "stars": 43302
-          }
+            "stars": 43305
+          },
+          "first_seen": "2026-08-29T00:07:05.117Z"
         }
       ],
       "title": "Web programming"
@@ -841,8 +879,9 @@
                         "last_commit": "2026-07-29T12:13:12Z",
                         "owner": "ssloy",
                         "repo": "tinyrenderer",
-                        "stars": 24150
-                      }
+                        "stars": 24152
+                      },
+                      "first_seen": "2026-08-29T00:07:05.117Z"
                     },
                     {
                       "node_type": "item",
@@ -857,7 +896,8 @@
                         "owner": "ssloy",
                         "repo": "tinyraytracer",
                         "stars": 5357
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:07:05.117Z"
                     },
                     {
                       "node_type": "item",
@@ -872,7 +912,8 @@
                         "owner": "ssloy",
                         "repo": "tinykaboom",
                         "stars": 2423
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:07:05.117Z"
                     },
                     {
                       "node_type": "item",
@@ -887,7 +928,8 @@
                         "owner": "ssloy",
                         "repo": "least-squares-course",
                         "stars": 225
-                      }
+                      },
+                      "first_seen": "2026-08-29T00:07:05.117Z"
                     }
                   ]
                 }
@@ -916,8 +958,9 @@
             "last_commit": "2026-07-14T19:25:58Z",
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 543451
-          }
+            "stars": 543694
+          },
+          "first_seen": "2026-08-29T00:07:05.117Z"
         },
         {
           "node_type": "item",
@@ -931,8 +974,9 @@
             "last_commit": "2026-08-24T07:38:50Z",
             "owner": "practical-tutorials",
             "repo": "project-based-learning",
-            "stars": 281110
-          }
+            "stars": 281192
+          },
+          "first_seen": "2026-08-29T00:07:05.117Z"
         },
         {
           "node_type": "item",
@@ -946,8 +990,9 @@
             "last_commit": "2026-08-14T09:37:03Z",
             "owner": "valeman",
             "repo": "Awesome_Math_Books",
-            "stars": 7034
-          }
+            "stars": 7054
+          },
+          "first_seen": "2026-08-29T00:07:05.117Z"
         },
         {
           "node_type": "item",
@@ -962,14 +1007,15 @@
             "owner": "TheNumbat",
             "repo": "Lists",
             "stars": 354
-          }
+          },
+          "first_seen": "2026-08-29T00:07:05.117Z"
         }
       ],
       "title": "Other lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:36:12.156Z",
+    "last_updated": "2026-08-29T00:07:05.117Z",
     "original_repository_info": {
       "archived": false,
       "id": 400507157,
