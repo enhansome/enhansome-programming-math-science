@@ -19,7 +19,7 @@
             "open_issues": 15,
             "owner": "HenryNdubuaku",
             "repo": "maths-cs-ai-compendium",
-            "stars": 7533,
+            "stars": 7536,
             "topics": [
               "ai-textbook",
               "algorithms",
@@ -62,7 +62,7 @@
                 "open_issues": 4,
                 "owner": "stas00",
                 "repo": "ml-engineering",
-                "stars": 19022,
+                "stars": 19030,
                 "topics": [
                   "ai",
                   "debugging",
@@ -175,11 +175,11 @@
                     "id": 522133400,
                     "language": "MATLAB",
                     "license": null,
-                    "last_commit": "2026-09-15T06:11:09Z",
+                    "last_commit": "2026-09-21T07:24:45Z",
                     "open_issues": 1,
                     "owner": "MathFoundationRL",
                     "repo": "Book-Mathematical-Foundation-of-Reinforcement-Learning",
-                    "stars": 17845,
+                    "stars": 17854,
                     "topics": [
                       "artificial-intelligence",
                       "book",
@@ -285,7 +285,7 @@
             "open_issues": 491,
             "owner": "lightvector",
             "repo": "KataGo",
-            "stars": 5129,
+            "stars": 5132,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:05.117Z"
@@ -358,11 +358,11 @@
                 "id": 94422621,
                 "language": "Shell",
                 "license": "GPL-3.0",
-                "last_commit": "2026-05-05T19:00:45Z",
-                "open_issues": 16,
+                "last_commit": "2026-09-21T10:44:00Z",
+                "open_issues": 14,
                 "owner": "phyver",
                 "repo": "GameShell",
-                "stars": 3316,
+                "stars": 3317,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:05.117Z"
@@ -394,7 +394,7 @@
             "open_issues": 25,
             "owner": "DoctorWkt",
             "repo": "acwj",
-            "stars": 13410,
+            "stars": 13411,
             "topics": [
               "c",
               "compiler",
@@ -425,10 +425,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-08-14T18:48:25Z",
-                "open_issues": 113,
+                "open_issues": 111,
                 "owner": "microsoft",
                 "repo": "DirectX-Graphics-Samples",
-                "stars": 6836,
+                "stars": 6835,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:05.117Z"
@@ -494,7 +494,7 @@
                 "open_issues": 3,
                 "owner": "fendevel",
                 "repo": "Guide-to-Modern-OpenGL-Functions",
-                "stars": 1465,
+                "stars": 1466,
                 "topics": [
                   "direct-state-access",
                   "dsa",
@@ -534,7 +534,7 @@
                 "open_issues": 18,
                 "owner": "lettier",
                 "repo": "3d-game-shaders-for-beginners",
-                "stars": 19912,
+                "stars": 19918,
                 "topics": [
                   "3d",
                   "3d-graphics",
@@ -694,7 +694,7 @@
             "open_issues": 21,
             "owner": "dendibakh",
             "repo": "perf-book",
-            "stars": 3654,
+            "stars": 3655,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:05.117Z"
@@ -795,7 +795,7 @@
             "open_issues": 0,
             "owner": "ahegazy0",
             "repo": "linux-basics-for-hackers-notes",
-            "stars": 1731,
+            "stars": 1739,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:05.117Z"
@@ -869,7 +869,7 @@
                 "open_issues": 25,
                 "owner": "FFmpeg",
                 "repo": "asm-lessons",
-                "stars": 12153,
+                "stars": 12154,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:05.117Z"
@@ -987,10 +987,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-09-10T08:44:30Z",
-                "open_issues": 213,
+                "open_issues": 219,
                 "owner": "Asabeneh",
                 "repo": "30-Days-Of-Python",
-                "stars": 74220,
+                "stars": 74313,
                 "topics": [
                   "30-days-of-python",
                   "data",
@@ -1027,7 +1027,7 @@
                 "open_issues": 18,
                 "owner": "rougier",
                 "repo": "scientific-visualization-book",
-                "stars": 11551,
+                "stars": 11554,
                 "topics": [
                   "book",
                   "dataviz",
@@ -1134,7 +1134,7 @@
             "open_issues": 1,
             "owner": "michiganrobotics",
             "repo": "rob501",
-            "stars": 2985,
+            "stars": 2986,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:05.117Z"
@@ -1155,7 +1155,7 @@
             "open_issues": 1,
             "owner": "henki-robotics",
             "repo": "robotics_essentials_ros2",
-            "stars": 2625,
+            "stars": 2627,
             "topics": [
               "course",
               "navigation",
@@ -1191,7 +1191,7 @@
                 "open_issues": 18,
                 "owner": "iggredible",
                 "repo": "Learn-Vim",
-                "stars": 15222,
+                "stars": 15223,
                 "topics": [
                   "advanced",
                   "beginner",
@@ -1241,7 +1241,7 @@
             "open_issues": 2066,
             "owner": "alex",
             "repo": "what-happens-when",
-            "stars": 43324,
+            "stars": 43323,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:05.117Z"
@@ -1280,7 +1280,7 @@
                         "open_issues": 4,
                         "owner": "ssloy",
                         "repo": "tinyrenderer",
-                        "stars": 24268,
+                        "stars": 24279,
                         "topics": [
                           "3d",
                           "3d-graphics",
@@ -1322,7 +1322,7 @@
                         "open_issues": 16,
                         "owner": "ssloy",
                         "repo": "tinyraytracer",
-                        "stars": 5371,
+                        "stars": 5372,
                         "topics": [
                           "3d",
                           "3d-graphics",
@@ -1435,7 +1435,7 @@
             "open_issues": 645,
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 548422,
+            "stars": 548618,
             "topics": [
               "awesome-list",
               "free",
@@ -1459,11 +1459,11 @@
             "id": 88011908,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-14T07:10:04Z",
+            "last_commit": "2026-09-21T07:11:08Z",
             "open_issues": 252,
             "owner": "practical-tutorials",
             "repo": "project-based-learning",
-            "stars": 284026,
+            "stars": 284151,
             "topics": [
               "beginner-project",
               "cpp",
@@ -1493,7 +1493,7 @@
             "open_issues": 7,
             "owner": "valeman",
             "repo": "Awesome_Math_Books",
-            "stars": 7226,
+            "stars": 7229,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:05.117Z"
@@ -1524,7 +1524,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T18:18:05.084Z",
+    "last_updated": "2026-09-21T20:07:33.335Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a list of links to different freely available learning resources about computer programming, math, and science.",
