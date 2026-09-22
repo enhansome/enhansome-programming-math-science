@@ -19,7 +19,7 @@
             "open_issues": 15,
             "owner": "HenryNdubuaku",
             "repo": "maths-cs-ai-compendium",
-            "stars": 7536,
+            "stars": 7542,
             "topics": [
               "ai-textbook",
               "algorithms",
@@ -62,7 +62,7 @@
                 "open_issues": 4,
                 "owner": "stas00",
                 "repo": "ml-engineering",
-                "stars": 19030,
+                "stars": 19032,
                 "topics": [
                   "ai",
                   "debugging",
@@ -149,7 +149,7 @@
                         "open_issues": 2,
                         "owner": "mitmath",
                         "repo": "matrixcalc",
-                        "stars": 613,
+                        "stars": 614,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T00:07:05.117Z"
@@ -179,7 +179,7 @@
                     "open_issues": 1,
                     "owner": "MathFoundationRL",
                     "repo": "Book-Mathematical-Foundation-of-Reinforcement-Learning",
-                    "stars": 17854,
+                    "stars": 17864,
                     "topics": [
                       "artificial-intelligence",
                       "book",
@@ -206,7 +206,7 @@
                     "open_issues": 4,
                     "owner": "alessiodm",
                     "repo": "drl-zh",
-                    "stars": 2295,
+                    "stars": 2296,
                     "topics": [
                       "deep-learning",
                       "deep-reinforcement-learning",
@@ -235,23 +235,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "A disciplined methodology for AI-assisted software development. Covers architectural constraints, validation hooks, session governance, and PAG (Pattern Abstract Grammar) for structured AI collaboration. Copy claude-setup/ into your project to start.",
+                "description": "Disciplined AI Collaboration: a method for building software with AI. One loop at every size, rules held by checks rather than attention, state derived rather than written, evidence in place of claims. Includes the PAG grammar, an architecture and a queryable ontology. Every page is also served as Markdown and JSON at banes-lab.com.",
                 "homepage": "https://banes-lab.com",
                 "id": 1050485604,
-                "language": "Python",
+                "language": null,
                 "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-04-02T14:58:53Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-22T01:09:16Z",
+                "open_issues": 0,
                 "owner": "Varietyz",
                 "repo": "Disciplined-AI-Software-Development",
                 "stars": 408,
                 "topics": [
+                  "agent-orchestration",
+                  "ai-agents",
                   "ai-assisted-development",
+                  "ai-collaboration",
                   "ai-governance",
-                  "claude-code",
                   "llm-governance",
+                  "llms-txt",
+                  "multi-agent",
+                  "ontology",
                   "pag",
-                  "prompt-engineering",
+                  "pattern-abstract-grammar",
                   "software-architecture",
                   "software-methodology"
                 ]
@@ -285,7 +290,7 @@
             "open_issues": 491,
             "owner": "lightvector",
             "repo": "KataGo",
-            "stars": 5132,
+            "stars": 5135,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:05.117Z"
@@ -306,7 +311,7 @@
             "open_issues": 32,
             "owner": "Jason2Brownlee",
             "repo": "CleverAlgorithms",
-            "stars": 2116,
+            "stars": 2117,
             "topics": [
               "algorithms",
               "book",
@@ -333,7 +338,7 @@
             "open_issues": 0,
             "owner": "little-book-of",
             "repo": "algorithms",
-            "stars": 563,
+            "stars": 564,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:05.117Z"
@@ -362,7 +367,7 @@
                 "open_issues": 14,
                 "owner": "phyver",
                 "repo": "GameShell",
-                "stars": 3317,
+                "stars": 3320,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:05.117Z"
@@ -424,7 +429,7 @@
                 "id": 36831874,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-08-14T18:48:25Z",
+                "last_commit": "2026-09-22T16:44:47Z",
                 "open_issues": 111,
                 "owner": "microsoft",
                 "repo": "DirectX-Graphics-Samples",
@@ -795,7 +800,7 @@
             "open_issues": 0,
             "owner": "ahegazy0",
             "repo": "linux-basics-for-hackers-notes",
-            "stars": 1739,
+            "stars": 1747,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:05.117Z"
@@ -869,7 +874,7 @@
                 "open_issues": 25,
                 "owner": "FFmpeg",
                 "repo": "asm-lessons",
-                "stars": 12154,
+                "stars": 12155,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:05.117Z"
@@ -897,7 +902,7 @@
                 "open_issues": 10,
                 "owner": "bobbyiliev",
                 "repo": "introduction-to-bash-scripting",
-                "stars": 6352,
+                "stars": 6351,
                 "topics": [
                   "100daysofcode",
                   "bash",
@@ -987,10 +992,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-09-10T08:44:30Z",
-                "open_issues": 219,
+                "open_issues": 220,
                 "owner": "Asabeneh",
                 "repo": "30-Days-Of-Python",
-                "stars": 74313,
+                "stars": 74401,
                 "topics": [
                   "30-days-of-python",
                   "data",
@@ -1027,7 +1032,7 @@
                 "open_issues": 18,
                 "owner": "rougier",
                 "repo": "scientific-visualization-book",
-                "stars": 11554,
+                "stars": 11560,
                 "topics": [
                   "book",
                   "dataviz",
@@ -1134,7 +1139,7 @@
             "open_issues": 1,
             "owner": "michiganrobotics",
             "repo": "rob501",
-            "stars": 2986,
+            "stars": 2987,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:05.117Z"
@@ -1155,7 +1160,7 @@
             "open_issues": 1,
             "owner": "henki-robotics",
             "repo": "robotics_essentials_ros2",
-            "stars": 2627,
+            "stars": 2631,
             "topics": [
               "course",
               "navigation",
@@ -1191,7 +1196,7 @@
                 "open_issues": 18,
                 "owner": "iggredible",
                 "repo": "Learn-Vim",
-                "stars": 15223,
+                "stars": 15226,
                 "topics": [
                   "advanced",
                   "beginner",
@@ -1241,7 +1246,7 @@
             "open_issues": 2066,
             "owner": "alex",
             "repo": "what-happens-when",
-            "stars": 43323,
+            "stars": 43325,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:05.117Z"
@@ -1280,7 +1285,7 @@
                         "open_issues": 4,
                         "owner": "ssloy",
                         "repo": "tinyrenderer",
-                        "stars": 24279,
+                        "stars": 24283,
                         "topics": [
                           "3d",
                           "3d-graphics",
@@ -1361,7 +1366,7 @@
                         "open_issues": 2,
                         "owner": "ssloy",
                         "repo": "tinykaboom",
-                        "stars": 2425,
+                        "stars": 2426,
                         "topics": [
                           "3d",
                           "3d-graphics",
@@ -1432,10 +1437,10 @@
             "language": "Markdown",
             "license": null,
             "last_commit": "2026-07-14T19:25:58Z",
-            "open_issues": 645,
+            "open_issues": 646,
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 548618,
+            "stars": 548801,
             "topics": [
               "awesome-list",
               "free",
@@ -1463,7 +1468,7 @@
             "open_issues": 252,
             "owner": "practical-tutorials",
             "repo": "project-based-learning",
-            "stars": 284151,
+            "stars": 284261,
             "topics": [
               "beginner-project",
               "cpp",
@@ -1493,7 +1498,7 @@
             "open_issues": 7,
             "owner": "valeman",
             "repo": "Awesome_Math_Books",
-            "stars": 7229,
+            "stars": 7232,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:05.117Z"
@@ -1524,7 +1529,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T20:07:33.335Z",
+    "last_updated": "2026-09-22T19:11:25.315Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a list of links to different freely available learning resources about computer programming, math, and science.",
