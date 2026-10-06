@@ -19,7 +19,7 @@
             "open_issues": 15,
             "owner": "HenryNdubuaku",
             "repo": "maths-cs-ai-compendium",
-            "stars": 7575,
+            "stars": 7582,
             "topics": [
               "ai-textbook",
               "algorithms",
@@ -62,7 +62,7 @@
                 "open_issues": 1,
                 "owner": "stas00",
                 "repo": "ml-engineering",
-                "stars": 19268,
+                "stars": 19323,
                 "topics": [
                   "ai",
                   "debugging",
@@ -100,7 +100,7 @@
                 "open_issues": 33,
                 "owner": "harvard-ml-courses",
                 "repo": "cs181-textbook",
-                "stars": 371,
+                "stars": 372,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:05.117Z"
@@ -121,7 +121,7 @@
                 "open_issues": 33,
                 "owner": "harvard-ml-courses",
                 "repo": "cs181-textbook",
-                "stars": 371,
+                "stars": 372,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:05.117Z"
@@ -179,7 +179,7 @@
                     "open_issues": 1,
                     "owner": "MathFoundationRL",
                     "repo": "Book-Mathematical-Foundation-of-Reinforcement-Learning",
-                    "stars": 17981,
+                    "stars": 17988,
                     "topics": [
                       "artificial-intelligence",
                       "book",
@@ -290,7 +290,7 @@
             "open_issues": 496,
             "owner": "lightvector",
             "repo": "KataGo",
-            "stars": 5165,
+            "stars": 5164,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:05.117Z"
@@ -367,7 +367,7 @@
                 "open_issues": 14,
                 "owner": "phyver",
                 "repo": "GameShell",
-                "stars": 3333,
+                "stars": 3334,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:05.117Z"
@@ -399,7 +399,7 @@
             "open_issues": 25,
             "owner": "DoctorWkt",
             "repo": "acwj",
-            "stars": 13456,
+            "stars": 13457,
             "topics": [
               "c",
               "compiler",
@@ -433,7 +433,7 @@
                 "open_issues": 110,
                 "owner": "microsoft",
                 "repo": "DirectX-Graphics-Samples",
-                "stars": 6843,
+                "stars": 6844,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:05.117Z"
@@ -539,7 +539,7 @@
                 "open_issues": 18,
                 "owner": "lettier",
                 "repo": "3d-game-shaders-for-beginners",
-                "stars": 19939,
+                "stars": 19940,
                 "topics": [
                   "3d",
                   "3d-graphics",
@@ -613,7 +613,7 @@
             "open_issues": 0,
             "owner": "nguyenchiemminhvu",
             "repo": "LinuxNetworkProgramming",
-            "stars": 551,
+            "stars": 552,
             "topics": [
               "c",
               "cpp",
@@ -800,7 +800,7 @@
             "open_issues": 1,
             "owner": "ahegazy0",
             "repo": "linux-basics-for-hackers-notes",
-            "stars": 1798,
+            "stars": 1801,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:05.117Z"
@@ -823,7 +823,7 @@
                 "open_issues": 24,
                 "owner": "rust-embedded",
                 "repo": "rust-raspberrypi-OS-tutorials",
-                "stars": 14737,
+                "stars": 14738,
                 "topics": [
                   "aarch64",
                   "arm64",
@@ -874,7 +874,7 @@
                 "open_issues": 25,
                 "owner": "FFmpeg",
                 "repo": "asm-lessons",
-                "stars": 12159,
+                "stars": 12160,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:05.117Z"
@@ -902,7 +902,7 @@
                 "open_issues": 10,
                 "owner": "bobbyiliev",
                 "repo": "introduction-to-bash-scripting",
-                "stars": 6362,
+                "stars": 6363,
                 "topics": [
                   "100daysofcode",
                   "bash",
@@ -992,10 +992,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-09-30T08:10:34Z",
-                "open_issues": 220,
+                "open_issues": 221,
                 "owner": "Asabeneh",
                 "repo": "30-Days-Of-Python",
-                "stars": 75326,
+                "stars": 75386,
                 "topics": [
                   "30-days-of-python",
                   "data",
@@ -1032,7 +1032,7 @@
                 "open_issues": 18,
                 "owner": "rougier",
                 "repo": "scientific-visualization-book",
-                "stars": 11594,
+                "stars": 11596,
                 "topics": [
                   "book",
                   "dataviz",
@@ -1139,7 +1139,7 @@
             "open_issues": 1,
             "owner": "michiganrobotics",
             "repo": "rob501",
-            "stars": 2996,
+            "stars": 3000,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:05.117Z"
@@ -1196,7 +1196,7 @@
                 "open_issues": 18,
                 "owner": "iggredible",
                 "repo": "Learn-Vim",
-                "stars": 15244,
+                "stars": 15246,
                 "topics": [
                   "advanced",
                   "beginner",
@@ -1246,7 +1246,7 @@
             "open_issues": 2063,
             "owner": "alex",
             "repo": "what-happens-when",
-            "stars": 43342,
+            "stars": 43341,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:05.117Z"
@@ -1285,7 +1285,7 @@
                         "open_issues": 4,
                         "owner": "ssloy",
                         "repo": "tinyrenderer",
-                        "stars": 24331,
+                        "stars": 24332,
                         "topics": [
                           "3d",
                           "3d-graphics",
@@ -1440,7 +1440,7 @@
             "open_issues": 668,
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 551705,
+            "stars": 551792,
             "topics": [
               "awesome-list",
               "free",
@@ -1468,7 +1468,7 @@
             "open_issues": 259,
             "owner": "practical-tutorials",
             "repo": "project-based-learning",
-            "stars": 285938,
+            "stars": 286012,
             "topics": [
               "beginner-project",
               "cpp",
@@ -1498,7 +1498,7 @@
             "open_issues": 7,
             "owner": "valeman",
             "repo": "Awesome_Math_Books",
-            "stars": 7299,
+            "stars": 7300,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:05.117Z"
@@ -1529,7 +1529,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T22:11:26.059Z",
+    "last_updated": "2026-10-06T10:21:07.905Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a list of links to different freely available learning resources about computer programming, math, and science.",
@@ -1541,7 +1541,7 @@
       "open_issues": 5,
       "owner": "bobeff",
       "repo": "programming-math-science",
-      "stars": 1915,
+      "stars": 1916,
       "topics": [
         "awesome-list",
         "math",
