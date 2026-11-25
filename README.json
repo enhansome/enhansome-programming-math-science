@@ -19,7 +19,7 @@
             "open_issues": 15,
             "owner": "HenryNdubuaku",
             "repo": "maths-cs-ai-compendium",
-            "stars": 7733,
+            "stars": 7735,
             "topics": [
               "ai-textbook",
               "algorithms",
@@ -58,11 +58,11 @@
                 "id": 292374787,
                 "language": "Python",
                 "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-11-24T00:14:51Z",
-                "open_issues": 0,
+                "last_commit": "2026-11-24T17:21:44Z",
+                "open_issues": 1,
                 "owner": "stas00",
                 "repo": "ml-engineering",
-                "stars": 19743,
+                "stars": 19745,
                 "topics": [
                   "ai",
                   "debugging",
@@ -179,7 +179,7 @@
                     "open_issues": 1,
                     "owner": "MathFoundationRL",
                     "repo": "Book-Mathematical-Foundation-of-Reinforcement-Learning",
-                    "stars": 18573,
+                    "stars": 18581,
                     "topics": [
                       "artificial-intelligence",
                       "book",
@@ -287,10 +287,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-09-28T00:12:40Z",
-            "open_issues": 519,
+            "open_issues": 520,
             "owner": "lightvector",
             "repo": "KataGo",
-            "stars": 5310,
+            "stars": 5313,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:05.117Z"
@@ -367,7 +367,7 @@
                 "open_issues": 14,
                 "owner": "phyver",
                 "repo": "GameShell",
-                "stars": 3377,
+                "stars": 3381,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:05.117Z"
@@ -433,7 +433,7 @@
                 "open_issues": 112,
                 "owner": "microsoft",
                 "repo": "DirectX-Graphics-Samples",
-                "stars": 6880,
+                "stars": 6883,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:05.117Z"
@@ -699,7 +699,7 @@
             "open_issues": 21,
             "owner": "dendibakh",
             "repo": "perf-book",
-            "stars": 3703,
+            "stars": 3704,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:05.117Z"
@@ -730,7 +730,7 @@
                     "open_issues": 4,
                     "owner": "little-book-of",
                     "repo": "linear-algebra",
-                    "stars": 2002,
+                    "stars": 2004,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:07:05.117Z"
@@ -823,7 +823,7 @@
                 "open_issues": 24,
                 "owner": "rust-embedded",
                 "repo": "rust-raspberrypi-OS-tutorials",
-                "stars": 14752,
+                "stars": 14753,
                 "topics": [
                   "aarch64",
                   "arm64",
@@ -874,7 +874,7 @@
                 "open_issues": 24,
                 "owner": "FFmpeg",
                 "repo": "asm-lessons",
-                "stars": 12200,
+                "stars": 12201,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:07:05.117Z"
@@ -902,7 +902,7 @@
                 "open_issues": 11,
                 "owner": "bobbyiliev",
                 "repo": "introduction-to-bash-scripting",
-                "stars": 6402,
+                "stars": 6403,
                 "topics": [
                   "100daysofcode",
                   "bash",
@@ -992,10 +992,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-09-30T08:10:34Z",
-                "open_issues": 248,
+                "open_issues": 249,
                 "owner": "Asabeneh",
                 "repo": "30-Days-Of-Python",
-                "stars": 79422,
+                "stars": 79483,
                 "topics": [
                   "30-days-of-python",
                   "data",
@@ -1032,7 +1032,7 @@
                 "open_issues": 20,
                 "owner": "rougier",
                 "repo": "scientific-visualization-book",
-                "stars": 11724,
+                "stars": 11726,
                 "topics": [
                   "book",
                   "dataviz",
@@ -1285,7 +1285,7 @@
                         "open_issues": 4,
                         "owner": "ssloy",
                         "repo": "tinyrenderer",
-                        "stars": 24572,
+                        "stars": 24575,
                         "topics": [
                           "3d",
                           "3d-graphics",
@@ -1437,10 +1437,10 @@
             "language": "Markdown",
             "license": null,
             "last_commit": "2026-11-19T05:32:02Z",
-            "open_issues": 641,
+            "open_issues": 642,
             "owner": "codecrafters-io",
             "repo": "build-your-own-x",
-            "stars": 565028,
+            "stars": 565321,
             "topics": [
               "awesome-list",
               "free",
@@ -1468,7 +1468,7 @@
             "open_issues": 215,
             "owner": "practical-tutorials",
             "repo": "project-based-learning",
-            "stars": 290350,
+            "stars": 290413,
             "topics": [
               "beginner-project",
               "cpp",
@@ -1498,7 +1498,7 @@
             "open_issues": 8,
             "owner": "valeman",
             "repo": "Awesome_Math_Books",
-            "stars": 7512,
+            "stars": 7516,
             "topics": []
           },
           "first_seen": "2026-08-29T00:07:05.117Z"
@@ -1529,7 +1529,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T02:35:22.669Z",
+    "last_updated": "2026-11-25T00:07:11.264Z",
     "original_repository_info": {
       "archived": false,
       "description": "This is a list of links to different freely available learning resources about computer programming, math, and science.",
